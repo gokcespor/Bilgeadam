@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-24 12:47:00 &#214;S"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjQ7MTI6MzY6MjAgw5ZTOzM4NzA="/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjQ7MTI6NDc6MDAgw5ZTOzE7Mzk3OA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="0 ile 100 aras&#305;ndaki say&#305;lar&#305;n toplam&#305;"/>
+            <declare name="i, toplam" type="Integer" array="False" size=""/>
+            <assign variable="toplam" expression="0"/>
+            <for variable="i" start="0" end="100" direction="inc" step="1">
+                <assign variable="toplam" expression="toplam + i"/>
+            </for>
+            <output expression="&quot;0 ile 100 aras&#305;ndaki say&#305;lar&#305;n toplam&#305; =&gt; &quot; &amp; toplam" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

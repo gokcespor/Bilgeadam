@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="gokce"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-24 04:47:57 &#214;S"/>
+        <attribute name="created" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjQ7MDQ6NDM6MTMgw5ZTOzI5OTY="/>
+        <attribute name="edited" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjQ7MDQ6NDc6NTcgw5ZTOzE7MzExNg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="cevre, a, b" type="Integer" array="False" size=""/>
+            <assign variable="cevre" expression="0"/>
+            <output expression="&quot;Bir kenar uzunlu&#287;u giriniz: &quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;Bir kenar uzunlu&#287;u giriniz: &quot;" newline="True"/>
+            <input variable="b"/>
+            <assign variable="cevre" expression="2 * (a + b)"/>
+            <output expression="&quot;Dikd&#246;rtgenin &#231;evresi= &quot; &amp; cevre" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

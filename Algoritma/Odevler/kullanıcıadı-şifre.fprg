@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="gokce"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-24 07:54:50 &#214;S"/>
+        <attribute name="created" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjQ7MDQ6NTE6MDUgw5ZTOzI5OTY="/>
+        <attribute name="edited" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjQ7MDc6NTQ6NTAgw5ZTOzI7MzExMQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="kullaniciAdi" type="String" array="False" size=""/>
+            <declare name="sifre" type="Integer" array="False" size=""/>
+            <output expression="&quot;Kullan&#305;c&#305; ad&#305;: &quot;" newline="True"/>
+            <input variable="kullaniciAdi"/>
+            <output expression="&quot;&#350;ifre: &quot;" newline="True"/>
+            <input variable="sifre"/>
+            <if expression="kullaniciAdi == &quot;bilgeadam&quot; &amp;&amp; sifre == 1234">
+                <then>
+                    <output expression="&quot;Ho&#351;geldin admin&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Kullan&#305;c&#305; ad&#305; veya &#351;ifre yanl&#305;&#351;&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-24 01:37:38 &#214;S"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjQ7MDE6MTM6MDAgw5ZTOzM4NjE="/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjQ7MDE6Mzc6Mzggw5ZTOzE7Mzk4Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="0 ile 2500 aras&#305;ndaki 4 ile tam b&#246;l&#252;nebilen, 3 ile b&#246;l&#252;m&#252;nden kalan 2 olan say&#305;lar&#305;n toplam&#305;n&#305; bulunuz."/>
+            <declare name="i, toplam" type="Integer" array="False" size=""/>
+            <assign variable="toplam" expression="0"/>
+            <for variable="i" start="0" end="2500" direction="inc" step="1">
+                <if expression="i % 4 == 0 &amp;&amp; i % 3 == 2">
+                    <then>
+                        <assign variable="toplam" expression="toplam + i"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <output expression="&quot;0 ile 2500 aras&#305;ndaki 4 ile tam b&#246;l&#252;nebilen, 3 ile b&#246;l&#252;m&#252;nden kalan 2 olan say&#305;lar&#305;n toplam&#305; =&gt; &quot; &amp; toplam" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

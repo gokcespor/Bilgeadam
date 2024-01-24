@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-24 02:57:37 &#214;S"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjQ7MDI6NDc6MDMgw5ZTOzM4NzI="/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjQ7MDI6NTc6Mzcgw5ZTOzE7Mzk4OA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="A ile B aras&#305;nda C'ye tam b&#246;l&#252;nebilen say&#305;lar&#305;n toplan&#305;n&#305; bulunuz"/>
+            <declare name="i, a, b, c, toplam" type="Integer" array="False" size=""/>
+            <output expression="&quot;Ba&#351;lang&#305;&#231; de&#287;eri giriniz: &quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;Biti&#351; de&#287;eri giriniz: &quot;" newline="True"/>
+            <input variable="b"/>
+            <output expression="&quot;B&#246;l&#252;m giriniz: &quot;" newline="True"/>
+            <input variable="c"/>
+            <assign variable="toplam" expression="0"/>
+            <for variable="i" start="a" end="b" direction="inc" step="1">
+                <if expression="i % c == 0">
+                    <then>
+                        <assign variable="toplam" expression="toplam + i"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <output expression="a &amp; &quot; ile &quot; &amp; b &amp; &quot; aras&#305;ndaki &quot; &amp; c &amp; &quot; ile tam b&#246;l&#252;nebilen say&#305;lar&#305;n toplam&#305;: &quot; &amp; toplam" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="gokce"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-24 07:45:38 &#214;S"/>
+        <attribute name="created" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjQ7MDQ6NDc6NTkgw5ZTOzMwMTA="/>
+        <attribute name="edited" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjQ7MDc6NDU6Mzggw5ZTOzI7MzExNw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="alan, r" type="Integer" array="False" size=""/>
+            <output expression="&quot;Yar&#305;&#231;ap&#305; giriniz: &quot;" newline="True"/>
+            <assign variable="r" expression="1"/>
+            <input variable="r"/>
+            <assign variable="alan" expression="pi * r * r"/>
+            <output expression="&quot;Dairenin alan&#305;: &quot; &amp; alan" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

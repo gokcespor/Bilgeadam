@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-24 03:15:56 &#214;S"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjQ7MDI6NTc6NDAgw5ZTOzM4NzQ="/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjQ7MDM6MTU6NTYgw5ZTOzE7Mzk4NA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Girilen say&#305;n&#305;n &#231;ift mi, tek mi ya da 0 m&#305; oldu&#287;unu anlay&#305;p kullan&#305;c&#305;ya &quot;Girilen Say&#305; Tektir&quot; ya da &quot;Girilen Say&#305; &#199;ifttir&quot; ya da &quot;Girilen say&#305; s&#305;f&#305;rd&#305;r&quot; uyar&#305;s&#305;n&#305; veren program&#305; yaz&#305;n&#305;z"/>
+            <declare name="sayi" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen say&#305; giriniz: &quot;" newline="True"/>
+            <input variable="sayi"/>
+            <if expression="sayi % 2 == 0">
+                <then>
+                    <if expression="sayi == 0">
+                        <then>
+                            <output expression="&quot;Say&#305; s&#305;f&#305;rd&#305;r&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Say&#305; &#231;ifttir&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </then>
+                <else>
+                    <output expression="&quot;Sayi tektir&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

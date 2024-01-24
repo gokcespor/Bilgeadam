@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-24 11:14:00 &#214;&#214;"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjQ7MTA6NDA6MjUgw5bDljszOTk5"/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjQ7MTE6MTQ6MDAgw5bDljsxOzQxMDI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="ad, soyad" type="String" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen ad&#305;n&#305;z&#305; giriniz: &quot;" newline="True"/>
+            <input variable="ad"/>
+            <output expression="&quot;L&#252;tfen soyad&#305;n&#305;z&#305; giriniz: &quot;" newline="True"/>
+            <input variable="soyad"/>
+            <output expression="&quot;Ho&#351;geldiniz &quot; &amp; ad &amp; &quot; &quot; &amp; soyad" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

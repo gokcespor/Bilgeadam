@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-24 12:55:00 &#214;S"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjQ7MTI6NDc6MDMgw5ZTOzM4NzM="/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjQ7MTI6NTU6MDAgw5ZTOzE7Mzk3Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="20 ile 30 aras&#305;ndaki say&#305;lar&#305;n &#231;arp&#305;m&#305; ka&#231;t&#305;r?"/>
+            <declare name="i, carpim" type="Integer" array="False" size=""/>
+            <assign variable="carpim" expression="1"/>
+            <for variable="i" start="20" end="30" direction="inc" step="1">
+                <assign variable="carpim" expression="carpim * i"/>
+            </for>
+            <output expression="&quot;20 ile 30 aras&#305;ndaki saylar&#305;n &#231;arp&#305;m&#305; =&gt; &quot; &amp; carpim" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
