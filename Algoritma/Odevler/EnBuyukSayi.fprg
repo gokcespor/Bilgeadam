@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="gokce"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-27 08:19:40 &#214;S"/>
+        <attribute name="created" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjc7MTI6MjI6NDAgw5bDljszMTI2"/>
+        <attribute name="edited" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjc7MDg6MTk6NDAgw5ZTOzI7MzExNQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi, i, enBuyukSayi" type="Integer" array="False" size=""/>
+            <output expression="&quot;Bir say&#305; giriniz: &quot;" newline="True"/>
+            <input variable="sayi"/>
+            <assign variable="enBuyukSayi" expression="sayi"/>
+            <for variable="i" start="0" end="4" direction="inc" step="&#13;&#10;1">
+                <input variable="sayi"/>
+                <if expression="sayi &gt; enBuyukSayi">
+                    <then>
+                        <assign variable="enBuyukSayi" expression="sayi"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <output expression="&quot;Girilen say&#305;lardan en b&#252;y&#252;&#287;&#252;: &quot; &amp; enBuyukSayi" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="gokce"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-27 08:47:39 &#214;S"/>
+        <attribute name="created" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjc7MDg6MDQ6MTMgw5ZTOzMwMDA="/>
+        <attribute name="edited" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjc7MDg6NDc6Mzkgw5ZTOzE7MzEyMw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="kenar1, kenar2, kenar3" type="Integer" array="False" size=""/>
+            <output expression="&quot;Kenar uzunluklar&#305;n&#305; giriniz: &quot;" newline="True"/>
+            <input variable="kenar1"/>
+            <input variable="kenar2"/>
+            <input variable="kenar3"/>
+            <if expression="kenar1 &gt; 0 &amp;&amp; kenar2 &gt; 0 &amp;&amp; kenar3 &gt; 0">
+                <then>
+                    <if expression="abs(kenar1 - kenar2) &lt; kenar3 &amp;&amp; kenar3 &lt; kenar1 + kenar2 || abs(kenar3 - kenar2) &lt; kenar1 &amp;&amp; kenar1 &lt; kenar3 + kenar2 || abs(kenar1 - kenar3) &lt; kenar2 &amp;&amp; kenar2 &lt; kenar1 + kenar3">
+                        <then>
+                            <if expression="kenar1 == kenar2 &amp;&amp; kenar2 == kenar3">
+                                <then>
+                                    <output expression="&quot;Bu &#252;&#231;gen e&#351;kenar &#252;&#231;gendir.&quot;" newline="True"/>
+                                </then>
+                                <else>
+                                    <if expression="kenar1 == kenar2 || kenar1 == kenar3 || kenar2 == kenar3">
+                                        <then>
+                                            <output expression="&quot;Bu &#252;&#231;gen ikizkenar &#252;&#231;gendir.&quot;" newline="True"/>
+                                        </then>
+                                        <else>
+                                            <output expression="&quot;Bu &#252;&#231;gen &#231;e&#351;itkenar &#252;&#231;gendir.&quot;" newline="True"/>
+                                        </else>
+                                    </if>
+                                </else>
+                            </if>
+                        </then>
+                        <else>
+                            <output expression="&quot;&#220;&#231;gen belirtmez!!&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </then>
+                <else>
+                    <output expression="&quot;Uzunluk negatif olamaz!!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

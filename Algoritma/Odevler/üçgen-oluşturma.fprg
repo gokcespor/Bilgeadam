@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="gokce"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-27 08:50:22 &#214;S"/>
+        <attribute name="created" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjc7MDg6NDc6NDEgw5ZTOzMwMDg="/>
+        <attribute name="edited" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjc7MDg6NDc6NDYgw5ZTOzE7Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjc7MDg6MDQ6MTMgw5ZTOzYxODA="/>
+        <attribute name="edited" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjc7MDg6NTA6MjIgw5ZTOzE7MzEwOQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="kenar1, kenar2, kenar3" type="Integer" array="False" size=""/>
+            <output expression="&quot;Kenar uzunluklar&#305;n&#305; giriniz: &quot;" newline="True"/>
+            <input variable="kenar1"/>
+            <input variable="kenar2"/>
+            <input variable="kenar3"/>
+            <if expression="abs(kenar1 - kenar2) &lt; kenar3 &amp;&amp; kenar3 &lt; kenar1 + kenar2 || abs(kenar3 - kenar2) &lt; kenar1 &amp;&amp; kenar1 &lt; kenar3 + kenar2 || abs(kenar1 - kenar3) &lt; kenar2 &amp;&amp; kenar2 &lt; kenar1 + kenar3">
+                <then>
+                    <output expression="&quot;Girilen kenarlar ile &#252;&#231;gen olu&#351;ur.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;&#220;&#231;gen belirtmez!!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

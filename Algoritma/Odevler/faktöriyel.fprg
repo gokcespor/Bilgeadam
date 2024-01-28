@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="gokce"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-27 09:08:49 &#214;S"/>
+        <attribute name="created" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjc7MDg6NTA6NDUgw5ZTOzMwMDY="/>
+        <attribute name="edited" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjc7MDk6MDg6NDkgw5ZTOzE7MzEyMg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi, faktoriyel, i, a" type="Integer" array="False" size=""/>
+            <output expression="&quot;Bir say&#305; giriniz: &quot;" newline="True"/>
+            <input variable="sayi"/>
+            <if expression="sayi &gt;= 2">
+                <then>
+                    <for variable="i" start="sayi" end="2" direction="dec" step="1">
+                        <assign variable="sayi" expression="sayi * (i-1)"/>
+                        <assign variable="faktoriyel" expression="sayi"/>
+                    </for>
+                    <output expression="faktoriyel" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Negatif say&#305;lar&#305;n fakt&#246;riyeli yoktur!!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

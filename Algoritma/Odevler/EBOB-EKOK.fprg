@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="gokce"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-28 08:04:37 &#214;S"/>
+        <attribute name="created" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjY7MDU6NDA6MDggw5ZTOzMwMDA="/>
+        <attribute name="edited" value="Z29rY2U7REVTS1RPUC1WTEpQNzc0OzIwMjQtMDEtMjg7MDg6MDQ6Mzcgw5ZTOzU7MzExOQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305;dan alaca&#287;&#305;n&#305;z iki say&#305;n&#305;n EBOB ve EKOK de&#287;erlerini ekranda g&#246;steriniz."/>
+            <declare name="hata" type="Boolean" array="False" size=""/>
+            <declare name="sayi1, sayi2, ebob, ekok, kalan1, kalan2, secim, a" type="Integer" array="False" size=""/>
+            <assign variable="hata" expression="false"/>
+            <assign variable="ebob" expression="0"/>
+            <assign variable="ekok" expression="0"/>
+            <output expression="&quot;1. say&#305;y&#305; giriniz: &quot;" newline="True"/>
+            <input variable="sayi1"/>
+            <output expression="&quot;2. say&#305;y&#305; giriniz: &quot;" newline="True"/>
+            <input variable="sayi2"/>
+            <if expression="sayi1 &gt; 0 &amp;&amp; sayi2 &gt; 0">
+                <then>
+                    <if expression="sayi1 &gt; sayi2">
+                        <then>
+                            <while expression="hata == false">
+                                <output expression="&quot;Say&#305;lar&#305;n EBOB unu almak i&#231;in 1 e, EKOK unu almak i&#231;in 2 ye bas&#305;n&#305;z.&quot;" newline="True"/>
+                                <input variable="secim"/>
+                                <if expression="secim == 1">
+                                    <then>
+                                        <if expression="sayi1 == sayi2">
+                                            <then>
+                                                <assign variable="ebob" expression="sayi1"/>
+                                                <output expression="&quot;Say&#305;lar birbirine e&#351;it olduklar&#305; i&#231;in EBOB: &quot; &amp; ebob" newline="True"/>
+                                                <assign variable="hata" expression="true"/>
+                                            </then>
+                                            <else>
+                                                <assign variable="kalan1" expression="sayi1 % sayi2"/>
+                                                <assign variable="kalan2" expression="sayi2 % kalan1"/>
+                                                <if expression="kalan2 == 0">
+                                                    <then>
+                                                        <assign variable="ebob" expression="kalan1"/>
+                                                        <output expression="&quot;Say&#305;lar&#305;n EBOB u: &quot; &amp; ebob" newline="True"/>
+                                                    </then>
+                                                    <else>
+                                                        <assign variable="ebob" expression="kalan2"/>
+                                                        <output expression="&quot;Say&#305;lar&#305;n EBOB u: &quot; &amp; ebob" newline="True"/>
+                                                    </else>
+                                                </if>
+                                                <assign variable="hata" expression="true"/>
+                                            </else>
+                                        </if>
+                                    </then>
+                                    <else>
+                                        <if expression="secim == 2">
+                                            <then>
+                                                <assign variable="kalan1" expression="sayi1 % sayi2"/>
+                                                <assign variable="kalan2" expression="sayi2 % kalan1"/>
+                                                <if expression="kalan2 == 0">
+                                                    <then>
+                                                        <assign variable="ebob" expression="kalan1"/>
+                                                        <assign variable="ekok" expression="(sayi1 * sayi2) / ebob"/>
+                                                        <output expression="&quot;Say&#305;lar&#305;n EKOK lar&#305;: &quot; &amp; ekok" newline="True"/>
+                                                    </then>
+                                                    <else>
+                                                        <assign variable="ebob" expression="kalan2"/>
+                                                        <output expression="&quot;Say&#305;lar&#305;n EKOK lar&#305;: &quot; &amp; ekok" newline="True"/>
+                                                    </else>
+                                                </if>
+                                                <assign variable="hata" expression="false"/>
+                                            </then>
+                                            <else>
+                                                <output expression="&quot;Yanl&#305;&#351; se&#231;im yapt&#305;n&#305;z!!&quot;" newline="True"/>
+                                            </else>
+                                        </if>
+                                    </else>
+                                </if>
+                            </while>
+                        </then>
+                        <else>
+                            <assign variable="a" expression="sayi1"/>
+                            <assign variable="sayi1" expression="sayi2"/>
+                            <assign variable="sayi2" expression="a"/>
+                            <while expression="hata == false">
+                                <output expression="&quot;Say&#305;lar&#305;n EBOB unu almak i&#231;in 1 e, EKOK unu almak i&#231;in 2 ye bas&#305;n&#305;z.&quot;" newline="True"/>
+                                <input variable="secim"/>
+                                <if expression="secim == 1">
+                                    <then>
+                                        <if expression="sayi1 == sayi2">
+                                            <then>
+                                                <assign variable="ebob" expression="sayi1"/>
+                                                <output expression="&quot;Say&#305;lar birbirine e&#351;it olduklar&#305; i&#231;in EBOB: &quot; &amp; ebob" newline="True"/>
+                                                <assign variable="hata" expression="true"/>
+                                            </then>
+                                            <else>
+                                                <assign variable="kalan1" expression="sayi2 % sayi1"/>
+                                                <assign variable="kalan2" expression="sayi1 % kalan1"/>
+                                                <if expression="kalan2 == 0">
+                                                    <then>
+                                                        <assign variable="ebob" expression="kalan1"/>
+                                                        <output expression="&quot;Say&#305;lar&#305;n EBOB u: &quot; &amp; ebob" newline="True"/>
+                                                    </then>
+                                                    <else>
+                                                        <assign variable="ebob" expression="kalan2"/>
+                                                        <output expression="&quot;Say&#305;lar&#305;n EBOB u: &quot; &amp; ebob" newline="True"/>
+                                                    </else>
+                                                </if>
+                                                <assign variable="hata" expression="true"/>
+                                            </else>
+                                        </if>
+                                    </then>
+                                    <else>
+                                        <if expression="secim == 2">
+                                            <then>
+                                                <assign variable="kalan1" expression="sayi1 % sayi2"/>
+                                                <assign variable="kalan2" expression="sayi2 % kalan1"/>
+                                                <if expression="kalan2 == 0">
+                                                    <then>
+                                                        <assign variable="ebob" expression="kalan1"/>
+                                                        <assign variable="ekok" expression="(sayi1 * sayi2) / ebob"/>
+                                                        <output expression="&quot;Say&#305;lar&#305;n EKOK lar&#305;: &quot; &amp; ekok" newline="True"/>
+                                                    </then>
+                                                    <else>
+                                                        <assign variable="ebob" expression="kalan2"/>
+                                                        <output expression="&quot;Say&#305;lar&#305;n EKOK lar&#305;: &quot; &amp; ekok" newline="True"/>
+                                                    </else>
+                                                </if>
+                                                <assign variable="hata" expression="false"/>
+                                            </then>
+                                            <else>
+                                                <output expression="&quot;Yanl&#305;&#351; se&#231;im yapt&#305;n&#305;z!!&quot;" newline="True"/>
+                                            </else>
+                                        </if>
+                                    </else>
+                                </if>
+                            </while>
+                        </else>
+                    </if>
+                </then>
+                <else>
+                    <output expression="&quot;Say&#305;lar negatif girilemez!!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
