@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-25 11:32:35 &#214;&#214;"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTE6MTY6MjYgw5bDljs0MDA1"/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTE6MzI6MzUgw5bDljsxOzQxMTE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305; s&#305;f&#305;ra basana kadar girdi&#287;i say&#305;lardan &#231;ift olanlar&#305;n adetini tutup kullan&#305;c&#305;ya g&#246;sterelim."/>
+            <declare name="i, adet" type="Integer" array="False" size=""/>
+            <assign variable="adet" expression="0"/>
+            <assign variable="i" expression="1"/>
+            <output expression="&quot;Say&#305;lar&#305; girebilirsiniz. E&#287;er ki 0'a basarsan&#305;z i&#351;lem bitecektir&quot;" newline="True"/>
+            <while expression="i != 0">
+                <input variable="i"/>
+                <if expression="i % 2 == 0 &amp;&amp; i != 0">
+                    <then>
+                        <assign variable="adet" expression="adet + 1"/>
+                    </then>
+                    <else/>
+                </if>
+            </while>
+            <output expression="adet &amp; &quot; adet &#231;ift say&#305; girdiniz.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-25 10:36:43 &#214;&#214;"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTA6MzA6NTUgw5bDljs0MDAy"/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTA6MzY6NDMgw5bDljsxOzQxMTM="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="&quot;Kullan&#305;c&#305; ad&#305; ve &#351;ifre&quot;"/>
+            <declare name="kullaniciAdi, sifre" type="String" array="False" size=""/>
+            <output expression="&quot;Kullan&#305;c&#305; ad&#305;n&#305;z&#305; giriniz: &quot;" newline="True"/>
+            <input variable="kullaniciAdi"/>
+            <output expression="&quot;&#350;ifre giriniz: &quot;" newline="True"/>
+            <input variable="sifre"/>
+            <if expression="kullaniciAdi == &quot;bilgeadam&quot; &amp;&amp; sifre == &quot;1234&quot;">
+                <then>
+                    <output expression="&quot;Ho&#351;geldin Admin!&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Kullanc&#305;&#305; ad&#305; veya &#351;ifre yanl&#305;&#351;!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

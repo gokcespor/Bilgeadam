@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-25 10:23:28 &#214;&#214;"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTA6MTg6MzIgw5bDljs0MDAz"/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTA6MjM6Mjggw5bDljsxOzQxMTI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Karenin Alan&#305;"/>
+            <declare name="kenar, alan" type="Integer" array="False" size=""/>
+            <output expression="&quot;Karenin kenar&#305;n&#305; giriniz: &quot;" newline="True"/>
+            <input variable="kenar"/>
+            <assign variable="alan" expression="kenar * kenar"/>
+            <output expression="&quot;Karenin alan&#305; =&gt; &quot; &amp; alan" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

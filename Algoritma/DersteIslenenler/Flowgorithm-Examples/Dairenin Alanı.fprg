@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-25 10:30:53 &#214;&#214;"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTA6Mjc6MTcgw5bDljs0MDA2"/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTA6MzA6NTMgw5bDljsxOzQxMDg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Dairenin Alan&#305;"/>
+            <declare name="r, alan" type="Real" array="False" size=""/>
+            <output expression="&quot;Dairenin yar&#305;&#231;ap&#305;n&#305; giriniz: &quot;" newline="True"/>
+            <input variable="r"/>
+            <assign variable="alan" expression="Pi * r * r"/>
+            <output expression="&quot;Dairenin alan&#305; =&gt; &quot; &amp; alan" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-25 01:58:55 &#214;S"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTI6NTk6NDIgw5ZTOzM4ODA="/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MDE6NTg6NTUgw5ZTOzE7Mzk4OQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305;dan 2 kenar alal&#305;m. Kullan&#305;c&#305;ya alan i&#231;in 1'e, &#231;evre i&#231;in 2'ye bas&#305;n diyelim. Daha sonra 1'e bast&#305;ysa alan&#305; g&#246;sterelim, 2'ye bast&#305;ysa &#231;evreyi g&#246;sterelim."/>
+            <declare name="kenar1, kenar2, alan, cevre, secim" type="Integer" array="False" size=""/>
+            <declare name="hata" type="Boolean" array="False" size=""/>
+            <assign variable="hata" expression="false"/>
+            <output expression="&quot;Birinci kenar&#305; giriniz: &quot;" newline="True"/>
+            <input variable="kenar1"/>
+            <output expression="&quot;&#304;kinci kenar&#305; giriniz: &quot;" newline="True"/>
+            <input variable="kenar2"/>
+            <while expression="hata == false">
+                <output expression="&quot;Alan i&#231;in 1'e, &#199;evre i&#231;in 2'ye bas&#305;n&#305;z.&quot;" newline="True"/>
+                <input variable="secim"/>
+                <if expression="secim == 1">
+                    <then>
+                        <assign variable="alan" expression="kenar1 * kenar2"/>
+                        <output expression="&quot;Alan&#305;n&#305;nz =&gt; &quot; &amp; alan" newline="True"/>
+                        <assign variable="hata" expression="true"/>
+                    </then>
+                    <else>
+                        <if expression="secim == 2">
+                            <then>
+                                <assign variable="cevre" expression="2 * (kenar1 + kenar2)"/>
+                                <output expression="&quot;&#199;evreniz =&gt; &quot; &amp; cevre" newline="True"/>
+                                <assign variable="hata" expression="true"/>
+                            </then>
+                            <else>
+                                <output expression="&quot;Hatal&#305; bir se&#231;im yapt&#305;n&#305;z.&quot;" newline="True"/>
+                            </else>
+                        </if>
+                    </else>
+                </if>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

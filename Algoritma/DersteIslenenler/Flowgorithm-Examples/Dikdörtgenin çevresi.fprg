@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-25 10:27:15 &#214;&#214;"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTA6MjM6Mjkgw5bDljs0MDA1"/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTA6Mjc6MTUgw5bDljsxOzQxMTI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Dikd&#246;rtgenin &#231;evresi"/>
+            <declare name="kenar1, kenar2, cevre" type="Integer" array="False" size=""/>
+            <output expression="&quot;Birinci kenar&#305; giriniz: &quot;" newline="True"/>
+            <input variable="kenar1"/>
+            <output expression="&quot;&#304;kinci kenar&#305; giriniz: &quot;" newline="True"/>
+            <input variable="kenar2"/>
+            <assign variable="cevre" expression="2*(kenar1 + kenar2)"/>
+            <output expression="&quot;Dikd&#246;rtgenin &#231;evresi =&gt; &quot; &amp; cevre" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

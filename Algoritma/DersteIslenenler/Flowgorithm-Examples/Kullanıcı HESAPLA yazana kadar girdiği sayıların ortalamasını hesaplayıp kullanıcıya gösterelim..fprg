@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-25 12:59:38 &#214;S"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTE6MzI6Mzkgw5bDljs0MDA3"/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTI6NTk6Mzggw5ZTOzE7Mzk5Mw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305; &quot;HESAPLA&quot; yazana kadar girdi&#287;i say&#305;lar&#305;n ortalamas&#305;n&#305; hesaplay&#305;p kullan&#305;c&#305;ya g&#246;sterelim."/>
+            <declare name="secim" type="String" array="False" size=""/>
+            <declare name="i, toplam, adet" type="Integer" array="False" size=""/>
+            <declare name="ortalama" type="Real" array="False" size=""/>
+            <assign variable="secim" expression="&quot;&quot;"/>
+            <assign variable="toplam" expression="0"/>
+            <assign variable="adet" expression="0"/>
+            <output expression="&quot;L&#252;tfen say&#305;lar&#305; giriniz: &quot;" newline="True"/>
+            <while expression="secim != &quot;hesapla&quot;">
+                <output expression="&quot;Sayi: &quot;" newline="False"/>
+                <input variable="i"/>
+                <assign variable="toplam" expression="toplam + i"/>
+                <assign variable="adet" expression="adet + 1"/>
+                <output expression="&quot;Sonu&#231; hesaplans&#305;n m&#305;? Hesaplans&#305;n istiyorsan&#305;z hesapla yaz&#305;n, yoksa hay&#305;r yaz&#305;n.&quot;" newline="True"/>
+                <input variable="secim"/>
+            </while>
+            <assign variable="ortalama" expression="toplam / adet"/>
+            <output expression="&quot;Yazd&#305;&#287;&#305;n&#305;z say&#305;lar&#305;n ortalamas&#305; =&gt; &quot; &amp; ortalama" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

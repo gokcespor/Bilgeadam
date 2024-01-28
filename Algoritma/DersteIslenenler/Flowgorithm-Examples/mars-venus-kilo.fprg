@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-25 11:02:31 &#214;&#214;"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTA6NDY6NDEgw5bDljs0MDA0"/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTE6MDI6MzEgw5bDljsxOzQxMDQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Ki&#351;inin kilosunu al&#305;yosunuz. Daha sonra kendisine mars kilosu mu yoksa ven&#252;s kilosunu mu istiyosunuz diye soruyoruz. Burada ki se&#231;imine g&#246;re kilosunu ekranda g&#246;steriyosunuz.(Mars: 0.39, Ven&#252;s 0.78)"/>
+            <declare name="kilo, secim, sonuc" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen kilonuzu giriniz: &quot;" newline="True"/>
+            <input variable="kilo"/>
+            <output expression="&quot;Mars kilonuz i&#231;in 1'e, Ven&#252;s kilonuz i&#231;in 2'ye bas&#305;n&#305;z&quot;" newline="True"/>
+            <input variable="secim"/>
+            <if expression="secim == 1">
+                <then>
+                    <assign variable="sonuc" expression="kilo * 0.39"/>
+                    <output expression="&quot;Mars kilonuz =&gt; &quot; &amp; sonuc" newline="True"/>
+                </then>
+                <else>
+                    <assign variable="sonuc" expression="kilo * 0.78"/>
+                    <output expression="&quot;Ven&#252;s kilonuz =&gt; &quot; &amp; sonuc" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

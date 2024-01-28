@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-25 10:46:40 &#214;&#214;"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTA6MzY6NTAgw5bDljs0MDAz"/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTA6NDY6NDAgw5bDljsxOzQxMTE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305;dan ya&#351;&#305;n&#305; isteyin. E&#287;er ki 20 ya&#351;&#305;nda veya daha b&#252;y&#252;kse askere gidebilir, de&#287;ilse askere gidemez uyar&#305;s&#305;n&#305; versin."/>
+            <declare name="yas" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen ya&#351;&#305;n&#305;z&#305; giriniz: &quot;" newline="True"/>
+            <input variable="yas"/>
+            <if expression="yas &gt;= 20">
+                <then>
+                    <output expression="&quot;Askere gidebilir.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Askere gidemez.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-25 02:20:15 &#214;S"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MDE6NTg6NTggw5ZTOzM4ODQ="/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MDI6MTc6Mzcgw5ZTOzE7c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MTA6NDY6NDEgw5bDljttYXJzLXZlbnVzLWtpbG8uZnByZzsxMDEwMQ=="/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MDI6MjA6MTUgw5ZTOzE7Mzk3NQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Mars Ven&#252;s sorusunu hatal&#305; giri&#351; yapma durumunda tekrar se&#231;im yap&#305;labilecek hale getirin."/>
+            <declare name="kilo, secim, sonuc" type="Integer" array="False" size=""/>
+            <declare name="hata" type="Boolean" array="False" size=""/>
+            <assign variable="hata" expression="false"/>
+            <output expression="&quot;L&#252;tfen kilonuzu giriniz: &quot;" newline="True"/>
+            <input variable="kilo"/>
+            <while expression="hata == false">
+                <output expression="&quot;Mars kilonuz i&#231;in 1'e, Ven&#252;s kilonuz i&#231;in 2'ye bas&#305;n&#305;z&quot;" newline="True"/>
+                <input variable="secim"/>
+                <if expression="secim == 1">
+                    <then>
+                        <assign variable="sonuc" expression="kilo * 0.39"/>
+                        <output expression="&quot;Mars kilonuz =&gt; &quot; &amp; sonuc" newline="True"/>
+                        <assign variable="hata" expression="true"/>
+                    </then>
+                    <else>
+                        <if expression="secim == 2">
+                            <then>
+                                <assign variable="sonuc" expression="kilo * 0.78"/>
+                                <output expression="&quot;Ven&#252;s kilonuz =&gt; &quot; &amp; sonuc" newline="True"/>
+                                <assign variable="hata" expression="true"/>
+                            </then>
+                            <else>
+                                <output expression="&quot;Hatal&#305; bir se&#231;im yapt&#305;n&#305;z!&quot;" newline="True"/>
+                            </else>
+                        </if>
+                    </else>
+                </if>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

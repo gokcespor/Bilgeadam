@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sinaemre.bekar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-01-25 03:15:09 &#214;S"/>
+        <attribute name="created" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MDI6Mzg6NDYgw5ZTOzM4ODA="/>
+        <attribute name="edited" value="c2luYWVtcmUuYmVrYXI7QU5LNS1ZWkxNT1JULTA4OzIwMjQtMDEtMjU7MDM6MTU6MDkgw5ZTOzE7Mzk4Mw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305; girece&#287;i 5 adet say&#305;n&#305;n karelerinin ortalamas&#305;n&#305; hesaplayarak kullanc&#305;ya g&#246;ster"/>
+            <declare name="i, sayi, kare, toplam, adet" type="Integer" array="False" size=""/>
+            <declare name="ortalama" type="Real" array="False" size=""/>
+            <assign variable="toplam" expression="0"/>
+            <assign variable="adet" expression="0"/>
+            <for variable="i" start="0" end="4" direction="inc" step="1">
+                <output expression="&quot;Say&#305; giriniz: &quot;" newline="True"/>
+                <input variable="sayi"/>
+                <assign variable="kare" expression="sayi * sayi"/>
+                <assign variable="toplam" expression="toplam + kare"/>
+                <assign variable="adet" expression="adet + 1"/>
+            </for>
+            <assign variable="ortalama" expression="toplam / adet"/>
+            <output expression="&quot;Girdi&#287;iniz say&#305;lar&#305;n karelerinin ortalamas&#305; =&gt; &quot; &amp; ortalama" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
