@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\bin\Debug\net7.0\3-ile-tam-bolunenler.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\bin\Debug\net7.0\3-ile-tam-bolunenler.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\bin\Debug\net7.0\3-ile-tam-bolunenler.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\bin\Debug\net7.0\3-ile-tam-bolunenler.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\bin\Debug\net7.0\3-ile-tam-bolunenler.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\obj\Debug\net7.0\3-ile-tam-bolunenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\obj\Debug\net7.0\3-ile-tam-bolunenler.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\obj\Debug\net7.0\3-ile-tam-bolunenler.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\obj\Debug\net7.0\3-ile-tam-bolunenler.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\obj\Debug\net7.0\3-ile-tam-bolunenler.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\obj\Debug\net7.0\refint\3-ile-tam-bolunenler.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\obj\Debug\net7.0\3-ile-tam-bolunenler.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\obj\Debug\net7.0\3-ile-tam-bolunenler.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\3-ile-tam-bolunenler\3-ile-tam-bolunenler\obj\Debug\net7.0\ref\3-ile-tam-bolunenler.dll

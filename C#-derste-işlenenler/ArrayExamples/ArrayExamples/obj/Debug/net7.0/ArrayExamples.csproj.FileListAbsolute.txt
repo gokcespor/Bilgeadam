@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\bin\Debug\net7.0\ArrayExamples.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\bin\Debug\net7.0\ArrayExamples.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\bin\Debug\net7.0\ArrayExamples.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\bin\Debug\net7.0\ArrayExamples.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\bin\Debug\net7.0\ArrayExamples.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\obj\Debug\net7.0\ArrayExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\obj\Debug\net7.0\ArrayExamples.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\obj\Debug\net7.0\ArrayExamples.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\obj\Debug\net7.0\ArrayExamples.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\obj\Debug\net7.0\ArrayExamples.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\obj\Debug\net7.0\refint\ArrayExamples.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\obj\Debug\net7.0\ArrayExamples.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\obj\Debug\net7.0\ArrayExamples.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ArrayExamples\ArrayExamples\obj\Debug\net7.0\ref\ArrayExamples.dll

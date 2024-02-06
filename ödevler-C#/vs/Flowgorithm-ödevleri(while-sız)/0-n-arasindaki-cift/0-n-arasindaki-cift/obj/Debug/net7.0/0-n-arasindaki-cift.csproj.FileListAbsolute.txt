@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\bin\Debug\net7.0\0-n-arasindaki-cift.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\bin\Debug\net7.0\0-n-arasindaki-cift.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\bin\Debug\net7.0\0-n-arasindaki-cift.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\bin\Debug\net7.0\0-n-arasindaki-cift.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\bin\Debug\net7.0\0-n-arasindaki-cift.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\obj\Debug\net7.0\0-n-arasindaki-cift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\obj\Debug\net7.0\0-n-arasindaki-cift.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\obj\Debug\net7.0\0-n-arasindaki-cift.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\obj\Debug\net7.0\0-n-arasindaki-cift.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\obj\Debug\net7.0\0-n-arasindaki-cift.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\obj\Debug\net7.0\refint\0-n-arasindaki-cift.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\obj\Debug\net7.0\0-n-arasindaki-cift.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\obj\Debug\net7.0\0-n-arasindaki-cift.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-n-arasindaki-cift\0-n-arasindaki-cift\obj\Debug\net7.0\ref\0-n-arasindaki-cift.dll

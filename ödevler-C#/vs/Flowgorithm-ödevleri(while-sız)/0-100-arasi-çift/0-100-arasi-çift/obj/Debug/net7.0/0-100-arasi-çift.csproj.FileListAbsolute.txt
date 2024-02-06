@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\bin\Debug\net7.0\0-100-arasi-çift.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\bin\Debug\net7.0\0-100-arasi-çift.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\bin\Debug\net7.0\0-100-arasi-çift.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\bin\Debug\net7.0\0-100-arasi-çift.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\bin\Debug\net7.0\0-100-arasi-çift.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\obj\Debug\net7.0\0-100-arasi-çift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\obj\Debug\net7.0\0-100-arasi-çift.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\obj\Debug\net7.0\0-100-arasi-çift.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\obj\Debug\net7.0\0-100-arasi-çift.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\obj\Debug\net7.0\0-100-arasi-çift.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\obj\Debug\net7.0\refint\0-100-arasi-çift.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\obj\Debug\net7.0\0-100-arasi-çift.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\obj\Debug\net7.0\0-100-arasi-çift.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-çift\0-100-arasi-çift\obj\Debug\net7.0\ref\0-100-arasi-çift.dll

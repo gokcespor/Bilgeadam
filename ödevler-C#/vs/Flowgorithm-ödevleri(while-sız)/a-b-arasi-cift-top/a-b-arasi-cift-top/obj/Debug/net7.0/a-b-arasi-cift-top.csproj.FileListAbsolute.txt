@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\bin\Debug\net7.0\a-b-arasi-cift-top.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\bin\Debug\net7.0\a-b-arasi-cift-top.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\bin\Debug\net7.0\a-b-arasi-cift-top.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\bin\Debug\net7.0\a-b-arasi-cift-top.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\bin\Debug\net7.0\a-b-arasi-cift-top.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\obj\Debug\net7.0\a-b-arasi-cift-top.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\obj\Debug\net7.0\a-b-arasi-cift-top.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\obj\Debug\net7.0\a-b-arasi-cift-top.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\obj\Debug\net7.0\a-b-arasi-cift-top.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\obj\Debug\net7.0\a-b-arasi-cift-top.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\obj\Debug\net7.0\refint\a-b-arasi-cift-top.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\obj\Debug\net7.0\a-b-arasi-cift-top.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\obj\Debug\net7.0\a-b-arasi-cift-top.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-b-arasi-cift-top\a-b-arasi-cift-top\obj\Debug\net7.0\ref\a-b-arasi-cift-top.dll

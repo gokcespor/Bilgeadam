@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\bin\Debug\net7.0\kullaniciAdi-sifre.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\bin\Debug\net7.0\kullaniciAdi-sifre.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\bin\Debug\net7.0\kullaniciAdi-sifre.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\bin\Debug\net7.0\kullaniciAdi-sifre.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\bin\Debug\net7.0\kullaniciAdi-sifre.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\obj\Debug\net7.0\kullaniciAdi-sifre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\obj\Debug\net7.0\kullaniciAdi-sifre.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\obj\Debug\net7.0\kullaniciAdi-sifre.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\obj\Debug\net7.0\kullaniciAdi-sifre.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\obj\Debug\net7.0\kullaniciAdi-sifre.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\obj\Debug\net7.0\refint\kullaniciAdi-sifre.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\obj\Debug\net7.0\kullaniciAdi-sifre.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\obj\Debug\net7.0\kullaniciAdi-sifre.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\kullaniciAdi-sifre\kullaniciAdi-sifre\obj\Debug\net7.0\ref\kullaniciAdi-sifre.dll

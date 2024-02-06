@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\bin\Debug\net7.0\20-30-arasindaki-sayi-carpim.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\bin\Debug\net7.0\20-30-arasindaki-sayi-carpim.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\bin\Debug\net7.0\20-30-arasindaki-sayi-carpim.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\bin\Debug\net7.0\20-30-arasindaki-sayi-carpim.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\bin\Debug\net7.0\20-30-arasindaki-sayi-carpim.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\obj\Debug\net7.0\20-30-arasindaki-sayi-carpim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\obj\Debug\net7.0\20-30-arasindaki-sayi-carpim.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\obj\Debug\net7.0\20-30-arasindaki-sayi-carpim.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\obj\Debug\net7.0\20-30-arasindaki-sayi-carpim.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\obj\Debug\net7.0\20-30-arasindaki-sayi-carpim.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\obj\Debug\net7.0\refint\20-30-arasindaki-sayi-carpim.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\obj\Debug\net7.0\20-30-arasindaki-sayi-carpim.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\obj\Debug\net7.0\20-30-arasindaki-sayi-carpim.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-30-arasindaki-sayi-carpim\20-30-arasindaki-sayi-carpim\obj\Debug\net7.0\ref\20-30-arasindaki-sayi-carpim.dll

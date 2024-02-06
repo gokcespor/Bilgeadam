@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\bin\Debug\net7.0\kitapMiktari.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\bin\Debug\net7.0\kitapMiktari.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\bin\Debug\net7.0\kitapMiktari.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\bin\Debug\net7.0\kitapMiktari.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\bin\Debug\net7.0\kitapMiktari.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\obj\Debug\net7.0\kitapMiktari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\obj\Debug\net7.0\kitapMiktari.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\obj\Debug\net7.0\kitapMiktari.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\obj\Debug\net7.0\kitapMiktari.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\obj\Debug\net7.0\kitapMiktari.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\obj\Debug\net7.0\refint\kitapMiktari.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\obj\Debug\net7.0\kitapMiktari.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\obj\Debug\net7.0\kitapMiktari.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kitapMiktari\kitapMiktari\obj\Debug\net7.0\ref\kitapMiktari.dll

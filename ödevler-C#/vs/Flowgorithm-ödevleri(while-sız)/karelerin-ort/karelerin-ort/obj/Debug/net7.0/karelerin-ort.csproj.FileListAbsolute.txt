@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\bin\Debug\net7.0\karelerin-ort.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\bin\Debug\net7.0\karelerin-ort.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\bin\Debug\net7.0\karelerin-ort.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\bin\Debug\net7.0\karelerin-ort.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\bin\Debug\net7.0\karelerin-ort.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\obj\Debug\net7.0\karelerin-ort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\obj\Debug\net7.0\karelerin-ort.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\obj\Debug\net7.0\karelerin-ort.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\obj\Debug\net7.0\karelerin-ort.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\obj\Debug\net7.0\karelerin-ort.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\obj\Debug\net7.0\refint\karelerin-ort.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\obj\Debug\net7.0\karelerin-ort.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\obj\Debug\net7.0\karelerin-ort.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\karelerin-ort\karelerin-ort\obj\Debug\net7.0\ref\karelerin-ort.dll

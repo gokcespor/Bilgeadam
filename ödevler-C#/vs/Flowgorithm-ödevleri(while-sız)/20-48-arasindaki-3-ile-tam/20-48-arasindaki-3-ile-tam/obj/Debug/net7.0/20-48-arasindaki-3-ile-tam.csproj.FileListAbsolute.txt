@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\bin\Debug\net7.0\20-48-arasindaki-3-ile-tam.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\bin\Debug\net7.0\20-48-arasindaki-3-ile-tam.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\bin\Debug\net7.0\20-48-arasindaki-3-ile-tam.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\bin\Debug\net7.0\20-48-arasindaki-3-ile-tam.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\bin\Debug\net7.0\20-48-arasindaki-3-ile-tam.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\obj\Debug\net7.0\20-48-arasindaki-3-ile-tam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\obj\Debug\net7.0\20-48-arasindaki-3-ile-tam.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\obj\Debug\net7.0\20-48-arasindaki-3-ile-tam.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\obj\Debug\net7.0\20-48-arasindaki-3-ile-tam.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\obj\Debug\net7.0\20-48-arasindaki-3-ile-tam.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\obj\Debug\net7.0\refint\20-48-arasindaki-3-ile-tam.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\obj\Debug\net7.0\20-48-arasindaki-3-ile-tam.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\obj\Debug\net7.0\20-48-arasindaki-3-ile-tam.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\20-48-arasindaki-3-ile-tam\20-48-arasindaki-3-ile-tam\obj\Debug\net7.0\ref\20-48-arasindaki-3-ile-tam.dll

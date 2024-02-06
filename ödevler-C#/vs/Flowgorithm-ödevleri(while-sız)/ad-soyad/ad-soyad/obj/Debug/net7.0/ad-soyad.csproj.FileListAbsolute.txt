@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\bin\Debug\net7.0\ad-soyad.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\bin\Debug\net7.0\ad-soyad.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\bin\Debug\net7.0\ad-soyad.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\bin\Debug\net7.0\ad-soyad.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\bin\Debug\net7.0\ad-soyad.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\obj\Debug\net7.0\ad-soyad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\obj\Debug\net7.0\ad-soyad.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\obj\Debug\net7.0\ad-soyad.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\obj\Debug\net7.0\ad-soyad.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\obj\Debug\net7.0\ad-soyad.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\obj\Debug\net7.0\refint\ad-soyad.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\obj\Debug\net7.0\ad-soyad.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\obj\Debug\net7.0\ad-soyad.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ad-soyad\ad-soyad\obj\Debug\net7.0\ref\ad-soyad.dll

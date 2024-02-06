@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\bin\Debug\net7.0\0-100-arasındaki.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\bin\Debug\net7.0\0-100-arasındaki.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\bin\Debug\net7.0\0-100-arasındaki.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\bin\Debug\net7.0\0-100-arasındaki.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\bin\Debug\net7.0\0-100-arasındaki.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\obj\Debug\net7.0\0-100-arasındaki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\obj\Debug\net7.0\0-100-arasındaki.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\obj\Debug\net7.0\0-100-arasındaki.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\obj\Debug\net7.0\0-100-arasındaki.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\obj\Debug\net7.0\0-100-arasındaki.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\obj\Debug\net7.0\refint\0-100-arasındaki.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\obj\Debug\net7.0\0-100-arasındaki.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\obj\Debug\net7.0\0-100-arasındaki.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasındaki\0-100-arasındaki\obj\Debug\net7.0\ref\0-100-arasındaki.dll

@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\bin\Debug\net7.0\a-barasi-c-ye-böl.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\bin\Debug\net7.0\a-barasi-c-ye-böl.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\bin\Debug\net7.0\a-barasi-c-ye-böl.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\bin\Debug\net7.0\a-barasi-c-ye-böl.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\bin\Debug\net7.0\a-barasi-c-ye-böl.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\obj\Debug\net7.0\a-barasi-c-ye-böl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\obj\Debug\net7.0\a-barasi-c-ye-böl.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\obj\Debug\net7.0\a-barasi-c-ye-böl.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\obj\Debug\net7.0\a-barasi-c-ye-böl.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\obj\Debug\net7.0\a-barasi-c-ye-böl.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\obj\Debug\net7.0\refint\a-barasi-c-ye-böl.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\obj\Debug\net7.0\a-barasi-c-ye-böl.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\obj\Debug\net7.0\a-barasi-c-ye-böl.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\a-barasi-c-ye-böl\a-barasi-c-ye-böl\obj\Debug\net7.0\ref\a-barasi-c-ye-böl.dll

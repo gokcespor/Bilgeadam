@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\bin\Debug\net7.0\7-ile-bolumundan-kalan.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\bin\Debug\net7.0\7-ile-bolumundan-kalan.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\bin\Debug\net7.0\7-ile-bolumundan-kalan.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\bin\Debug\net7.0\7-ile-bolumundan-kalan.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\bin\Debug\net7.0\7-ile-bolumundan-kalan.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\obj\Debug\net7.0\7-ile-bolumundan-kalan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\obj\Debug\net7.0\7-ile-bolumundan-kalan.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\obj\Debug\net7.0\7-ile-bolumundan-kalan.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\obj\Debug\net7.0\7-ile-bolumundan-kalan.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\obj\Debug\net7.0\7-ile-bolumundan-kalan.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\obj\Debug\net7.0\refint\7-ile-bolumundan-kalan.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\obj\Debug\net7.0\7-ile-bolumundan-kalan.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\obj\Debug\net7.0\7-ile-bolumundan-kalan.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\7-ile-bolumundan-kalan\7-ile-bolumundan-kalan\obj\Debug\net7.0\ref\7-ile-bolumundan-kalan.dll

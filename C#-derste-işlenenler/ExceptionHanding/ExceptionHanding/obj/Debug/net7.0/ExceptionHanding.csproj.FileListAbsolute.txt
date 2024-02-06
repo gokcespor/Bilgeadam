@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\bin\Debug\net7.0\ExceptionHanding.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\bin\Debug\net7.0\ExceptionHanding.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\bin\Debug\net7.0\ExceptionHanding.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\bin\Debug\net7.0\ExceptionHanding.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\bin\Debug\net7.0\ExceptionHanding.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\obj\Debug\net7.0\ExceptionHanding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\obj\Debug\net7.0\ExceptionHanding.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\obj\Debug\net7.0\ExceptionHanding.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\obj\Debug\net7.0\ExceptionHanding.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\obj\Debug\net7.0\ExceptionHanding.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\obj\Debug\net7.0\refint\ExceptionHanding.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\obj\Debug\net7.0\ExceptionHanding.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\obj\Debug\net7.0\ExceptionHanding.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\ExceptionHanding\ExceptionHanding\obj\Debug\net7.0\ref\ExceptionHanding.dll

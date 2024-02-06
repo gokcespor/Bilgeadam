@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\bin\Debug\net7.0\cift-tek-sifir.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\bin\Debug\net7.0\cift-tek-sifir.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\bin\Debug\net7.0\cift-tek-sifir.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\bin\Debug\net7.0\cift-tek-sifir.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\bin\Debug\net7.0\cift-tek-sifir.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\obj\Debug\net7.0\cift-tek-sifir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\obj\Debug\net7.0\cift-tek-sifir.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\obj\Debug\net7.0\cift-tek-sifir.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\obj\Debug\net7.0\cift-tek-sifir.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\obj\Debug\net7.0\cift-tek-sifir.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\obj\Debug\net7.0\refint\cift-tek-sifir.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\obj\Debug\net7.0\cift-tek-sifir.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\obj\Debug\net7.0\cift-tek-sifir.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\cift-tek-sifir\cift-tek-sifir\obj\Debug\net7.0\ref\cift-tek-sifir.dll

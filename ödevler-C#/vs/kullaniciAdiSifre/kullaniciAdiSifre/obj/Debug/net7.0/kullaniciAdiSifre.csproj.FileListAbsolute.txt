@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\net7.0\kullaniciAdiSifre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\net7.0\kullaniciAdiSifre.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\net7.0\kullaniciAdiSifre.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\net7.0\kullaniciAdiSifre.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\bin\Debug\net7.0\kullaniciAdiSifre.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\bin\Debug\net7.0\kullaniciAdiSifre.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\bin\Debug\net7.0\kullaniciAdiSifre.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\bin\Debug\net7.0\kullaniciAdiSifre.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\bin\Debug\net7.0\kullaniciAdiSifre.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\net7.0\kullaniciAdiSifre.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\net7.0\refint\kullaniciAdiSifre.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\net7.0\kullaniciAdiSifre.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\net7.0\kullaniciAdiSifre.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\net7.0\ref\kullaniciAdiSifre.dll

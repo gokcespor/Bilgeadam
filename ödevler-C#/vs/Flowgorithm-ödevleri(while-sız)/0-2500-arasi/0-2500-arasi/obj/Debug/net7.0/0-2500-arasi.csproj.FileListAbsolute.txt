@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\bin\Debug\net7.0\0-2500-arasi.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\bin\Debug\net7.0\0-2500-arasi.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\bin\Debug\net7.0\0-2500-arasi.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\bin\Debug\net7.0\0-2500-arasi.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\bin\Debug\net7.0\0-2500-arasi.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\obj\Debug\net7.0\0-2500-arasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\obj\Debug\net7.0\0-2500-arasi.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\obj\Debug\net7.0\0-2500-arasi.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\obj\Debug\net7.0\0-2500-arasi.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\obj\Debug\net7.0\0-2500-arasi.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\obj\Debug\net7.0\refint\0-2500-arasi.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\obj\Debug\net7.0\0-2500-arasi.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\obj\Debug\net7.0\0-2500-arasi.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-2500-arasi\0-2500-arasi\obj\Debug\net7.0\ref\0-2500-arasi.dll

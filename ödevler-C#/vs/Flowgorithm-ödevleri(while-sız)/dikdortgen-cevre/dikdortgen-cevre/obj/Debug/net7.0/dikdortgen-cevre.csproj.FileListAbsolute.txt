@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\bin\Debug\net7.0\dikdortgen-cevre.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\bin\Debug\net7.0\dikdortgen-cevre.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\bin\Debug\net7.0\dikdortgen-cevre.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\bin\Debug\net7.0\dikdortgen-cevre.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\bin\Debug\net7.0\dikdortgen-cevre.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\obj\Debug\net7.0\dikdortgen-cevre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\obj\Debug\net7.0\dikdortgen-cevre.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\obj\Debug\net7.0\dikdortgen-cevre.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\obj\Debug\net7.0\dikdortgen-cevre.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\obj\Debug\net7.0\dikdortgen-cevre.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\obj\Debug\net7.0\refint\dikdortgen-cevre.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\obj\Debug\net7.0\dikdortgen-cevre.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\obj\Debug\net7.0\dikdortgen-cevre.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\dikdortgen-cevre\dikdortgen-cevre\obj\Debug\net7.0\ref\dikdortgen-cevre.dll

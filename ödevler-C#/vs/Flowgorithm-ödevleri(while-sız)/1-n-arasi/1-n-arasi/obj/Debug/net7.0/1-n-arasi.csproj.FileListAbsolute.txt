@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\bin\Debug\net7.0\1-n-arasi.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\bin\Debug\net7.0\1-n-arasi.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\bin\Debug\net7.0\1-n-arasi.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\bin\Debug\net7.0\1-n-arasi.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\bin\Debug\net7.0\1-n-arasi.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\obj\Debug\net7.0\1-n-arasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\obj\Debug\net7.0\1-n-arasi.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\obj\Debug\net7.0\1-n-arasi.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\obj\Debug\net7.0\1-n-arasi.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\obj\Debug\net7.0\1-n-arasi.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\obj\Debug\net7.0\refint\1-n-arasi.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\obj\Debug\net7.0\1-n-arasi.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\obj\Debug\net7.0\1-n-arasi.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\1-n-arasi\1-n-arasi\obj\Debug\net7.0\ref\1-n-arasi.dll

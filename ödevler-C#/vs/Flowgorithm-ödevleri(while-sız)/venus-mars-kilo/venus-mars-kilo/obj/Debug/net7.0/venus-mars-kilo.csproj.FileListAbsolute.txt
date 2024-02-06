@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\bin\Debug\net7.0\venus-mars-kilo.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\bin\Debug\net7.0\venus-mars-kilo.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\bin\Debug\net7.0\venus-mars-kilo.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\bin\Debug\net7.0\venus-mars-kilo.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\bin\Debug\net7.0\venus-mars-kilo.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\obj\Debug\net7.0\venus-mars-kilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\obj\Debug\net7.0\venus-mars-kilo.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\obj\Debug\net7.0\venus-mars-kilo.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\obj\Debug\net7.0\venus-mars-kilo.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\obj\Debug\net7.0\venus-mars-kilo.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\obj\Debug\net7.0\refint\venus-mars-kilo.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\obj\Debug\net7.0\venus-mars-kilo.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\obj\Debug\net7.0\venus-mars-kilo.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\venus-mars-kilo\venus-mars-kilo\obj\Debug\net7.0\ref\venus-mars-kilo.dll

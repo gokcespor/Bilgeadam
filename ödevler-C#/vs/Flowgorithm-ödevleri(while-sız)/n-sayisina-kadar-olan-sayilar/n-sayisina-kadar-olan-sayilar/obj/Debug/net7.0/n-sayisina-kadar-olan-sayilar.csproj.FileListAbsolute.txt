@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\bin\Debug\net7.0\n-sayisina-kadar-olan-sayilar.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\bin\Debug\net7.0\n-sayisina-kadar-olan-sayilar.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\bin\Debug\net7.0\n-sayisina-kadar-olan-sayilar.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\bin\Debug\net7.0\n-sayisina-kadar-olan-sayilar.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\bin\Debug\net7.0\n-sayisina-kadar-olan-sayilar.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\obj\Debug\net7.0\n-sayisina-kadar-olan-sayilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\obj\Debug\net7.0\n-sayisina-kadar-olan-sayilar.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\obj\Debug\net7.0\n-sayisina-kadar-olan-sayilar.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\obj\Debug\net7.0\n-sayisina-kadar-olan-sayilar.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\obj\Debug\net7.0\n-sayisina-kadar-olan-sayilar.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\obj\Debug\net7.0\refint\n-sayisina-kadar-olan-sayilar.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\obj\Debug\net7.0\n-sayisina-kadar-olan-sayilar.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\obj\Debug\net7.0\n-sayisina-kadar-olan-sayilar.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\n-sayisina-kadar-olan-sayilar\n-sayisina-kadar-olan-sayilar\obj\Debug\net7.0\ref\n-sayisina-kadar-olan-sayilar.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "n-sayisina-kadar-olan-sayilar/1.0.0": {
+        "runtime": {
+          "n-sayisina-kadar-olan-sayilar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "n-sayisina-kadar-olan-sayilar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

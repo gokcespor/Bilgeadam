@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\bin\Debug\net7.0\0-100-arasi-toplam.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\bin\Debug\net7.0\0-100-arasi-toplam.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\bin\Debug\net7.0\0-100-arasi-toplam.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\bin\Debug\net7.0\0-100-arasi-toplam.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\bin\Debug\net7.0\0-100-arasi-toplam.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\obj\Debug\net7.0\0-100-arasi-toplam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\obj\Debug\net7.0\0-100-arasi-toplam.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\obj\Debug\net7.0\0-100-arasi-toplam.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\obj\Debug\net7.0\0-100-arasi-toplam.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\obj\Debug\net7.0\0-100-arasi-toplam.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\obj\Debug\net7.0\refint\0-100-arasi-toplam.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\obj\Debug\net7.0\0-100-arasi-toplam.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\obj\Debug\net7.0\0-100-arasi-toplam.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\Flowgorithm-ödevleri(while-sız)\0-100-arasi-toplam\0-100-arasi-toplam\obj\Debug\net7.0\ref\0-100-arasi-toplam.dll
