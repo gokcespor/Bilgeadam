@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\3. hafta\\ArrayExamples\\ArrayExamples\\ArrayExamples.csproj": {}
+    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\ArrayExamples\\ArrayExamples\\ArrayExamples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\3. hafta\\ArrayExamples\\ArrayExamples\\ArrayExamples.csproj": {
+    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\ArrayExamples\\ArrayExamples\\ArrayExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\3. hafta\\ArrayExamples\\ArrayExamples\\ArrayExamples.csproj",
+        "projectUniqueName": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\ArrayExamples\\ArrayExamples\\ArrayExamples.csproj",
         "projectName": "ArrayExamples",
-        "projectPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\3. hafta\\ArrayExamples\\ArrayExamples\\ArrayExamples.csproj",
+        "projectPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\ArrayExamples\\ArrayExamples\\ArrayExamples.csproj",
         "packagesPath": "C:\\Users\\gokce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\3. hafta\\ArrayExamples\\ArrayExamples\\obj\\",
+        "outputPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\ArrayExamples\\ArrayExamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gokce\\AppData\\Roaming\\NuGet\\NuGet.Config",

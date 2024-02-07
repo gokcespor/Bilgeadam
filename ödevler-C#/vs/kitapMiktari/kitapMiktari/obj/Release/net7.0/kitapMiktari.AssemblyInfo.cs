@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kitapMiktari")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da8e0621d909e32d61315bfcfd8d06b26b26f903")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44f9c9b9452b6b21c0b985e5687b8e04bf0c220a")]
 [assembly: System.Reflection.AssemblyProductAttribute("kitapMiktari")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kitapMiktari")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

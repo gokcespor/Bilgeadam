@@ -4,6 +4,7 @@ namespace ArrayExamples
 {
     internal class Program
     {
+    {
         static void Main(string[] args)
         {
             #region Soru 1
@@ -28,20 +29,22 @@ namespace ArrayExamples
             #endregion
 
             #region Soru 2
-            // Kullanıcıdan bir sayı alınız. Bu sayı aşağıdaki dizinin içinde var mı yok mu kullanıcıya söyleyiniz.
-            //int[] sayilar = { 4, 78, 92, 33, 64, 756, 9865 };
+            //Kullanıcıdan bir sayı alınız. Bu sayı aşağıdaki dizinin içinde var mı yok mu kullanıcıya söyleyiniz.
+            // int[] sayilar = { 4, 78, 92, 33, 64, 756, 9865 };
 
             //Console.WriteLine("Bir sayı giriniz: ");
             //int sayi = Convert.ToInt32(Console.ReadLine());
             //bool sayiVarMi = false;
+
             //foreach (var deger in sayilar)
             //{
             //    if (sayi == deger)
             //    {
-            //        sayiVarMi |= true;
+            //        sayiVarMi = true;
             //    }
             //}
-            //if(sayiVarMi == true)
+
+            //if (sayiVarMi == true)
             //{
             //    Console.WriteLine("Girdiğiniz sayı dizide bulunmaktadır.");
             //}
@@ -49,7 +52,6 @@ namespace ArrayExamples
             //{
             //    Console.WriteLine("Girdiğiniz sayı bulunmamaktadır.");
             //}
-
 
             #endregion
 
@@ -108,7 +110,7 @@ namespace ArrayExamples
             //}
             //for (int i = 0; i < sayilar.Length; i++)
             //{
-            //    Console.WriteLine("Dizinin " + i + ". Elemanı => " + sayilar[i]);     
+            //    Console.WriteLine("Dizinin " + i + ". Elemanı => " + sayilar[i]);
             //}
 
             #endregion
@@ -118,19 +120,19 @@ namespace ArrayExamples
             // Kullanıcıdan bir harf alınız. Bu harf yukarıdaki cümleden kaç kere geçtiyse onu kullanıcıya gösteriniz.
             // NOT: Her string bir char dizisidir.
 
-            string cumle = "Şemsi Paşa Pasajında dili büzüşesiceler";
-            Console.Write("Bir harf girin: ");
-            char harf = Convert.ToChar(Console.ReadLine());
-            int adet = 0;
-            for (int i = 0; i < cumle.Length; i++)
-            {
-                if (harf == cumle[i])
-                {
-                    adet++;
-                }
-            }
+            //string cumle = "Şemsi Paşa Pasajında dili büzüşesiceler";
+            //Console.Write("Bir harf girin: ");
+            //char harf = Convert.ToChar(Console.ReadLine());
+            //int adet = 0;
+            //for (int i = 0; i < cumle.Length; i++)
+            //{
+            //    if (harf == cumle[i])
+            //    {
+            //        adet++;
+            //    }
+            //}
             
-            Console.WriteLine($"Gidiğiniz harf cümlede {adet} adet vardır.");
+            //Console.WriteLine($"Gidiğiniz harf cümlede {adet} adet vardır.");
             #endregion
         }
     }

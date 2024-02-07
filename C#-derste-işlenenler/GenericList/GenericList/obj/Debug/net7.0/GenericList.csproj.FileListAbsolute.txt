@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\bin\Debug\net7.0\GenericList.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\bin\Debug\net7.0\GenericList.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\bin\Debug\net7.0\GenericList.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\bin\Debug\net7.0\GenericList.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\bin\Debug\net7.0\GenericList.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\obj\Debug\net7.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\obj\Debug\net7.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\obj\Debug\net7.0\GenericList.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\obj\Debug\net7.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\obj\Debug\net7.0\GenericList.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\obj\Debug\net7.0\refint\GenericList.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\obj\Debug\net7.0\GenericList.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\obj\Debug\net7.0\GenericList.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\ödevler\vs\RandomNumber\GenericList\GenericList\obj\Debug\net7.0\ref\GenericList.dll
