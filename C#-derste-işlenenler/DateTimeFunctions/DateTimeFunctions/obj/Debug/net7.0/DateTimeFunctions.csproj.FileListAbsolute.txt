@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\bin\Debug\net7.0\DateTimeFunctions.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\bin\Debug\net7.0\DateTimeFunctions.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\bin\Debug\net7.0\DateTimeFunctions.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\bin\Debug\net7.0\DateTimeFunctions.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\bin\Debug\net7.0\DateTimeFunctions.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\obj\Debug\net7.0\DateTimeFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\obj\Debug\net7.0\DateTimeFunctions.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\obj\Debug\net7.0\DateTimeFunctions.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\obj\Debug\net7.0\DateTimeFunctions.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\obj\Debug\net7.0\DateTimeFunctions.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\obj\Debug\net7.0\refint\DateTimeFunctions.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\obj\Debug\net7.0\DateTimeFunctions.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\obj\Debug\net7.0\DateTimeFunctions.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\DateTimeFunctions\DateTimeFunctions\obj\Debug\net7.0\ref\DateTimeFunctions.dll

@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\bin\Debug\net7.0\MathFunctions.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\bin\Debug\net7.0\MathFunctions.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\bin\Debug\net7.0\MathFunctions.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\bin\Debug\net7.0\MathFunctions.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\bin\Debug\net7.0\MathFunctions.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\obj\Debug\net7.0\MathFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\obj\Debug\net7.0\MathFunctions.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\obj\Debug\net7.0\MathFunctions.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\obj\Debug\net7.0\MathFunctions.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\obj\Debug\net7.0\MathFunctions.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\obj\Debug\net7.0\refint\MathFunctions.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\obj\Debug\net7.0\MathFunctions.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\obj\Debug\net7.0\MathFunctions.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\MathFunctions\MathFunctions\obj\Debug\net7.0\ref\MathFunctions.dll

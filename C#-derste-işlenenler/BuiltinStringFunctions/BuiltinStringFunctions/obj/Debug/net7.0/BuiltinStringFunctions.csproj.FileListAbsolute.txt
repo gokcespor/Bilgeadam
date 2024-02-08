@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\bin\Debug\net7.0\BuiltinStringFunctions.exe
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\bin\Debug\net7.0\BuiltinStringFunctions.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\bin\Debug\net7.0\BuiltinStringFunctions.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\bin\Debug\net7.0\BuiltinStringFunctions.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\bin\Debug\net7.0\BuiltinStringFunctions.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\obj\Debug\net7.0\BuiltinStringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\obj\Debug\net7.0\BuiltinStringFunctions.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\obj\Debug\net7.0\BuiltinStringFunctions.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\obj\Debug\net7.0\BuiltinStringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\obj\Debug\net7.0\BuiltinStringFunctions.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\obj\Debug\net7.0\refint\BuiltinStringFunctions.dll
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\obj\Debug\net7.0\BuiltinStringFunctions.pdb
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\obj\Debug\net7.0\BuiltinStringFunctions.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\BilgeAdam\4.hafta\BuiltinStringFunctions\BuiltinStringFunctions\obj\Debug\net7.0\ref\BuiltinStringFunctions.dll
