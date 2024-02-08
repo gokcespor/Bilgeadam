@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\ArrayClass\\ArrayClass\\ArrayClass.csproj": {}
+    "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\ArrayClass\\ArrayClass\\ArrayClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\ArrayClass\\ArrayClass\\ArrayClass.csproj": {
+    "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\ArrayClass\\ArrayClass\\ArrayClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\ArrayClass\\ArrayClass\\ArrayClass.csproj",
+        "projectUniqueName": "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\ArrayClass\\ArrayClass\\ArrayClass.csproj",
         "projectName": "ArrayClass",
-        "projectPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\ArrayClass\\ArrayClass\\ArrayClass.csproj",
+        "projectPath": "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\ArrayClass\\ArrayClass\\ArrayClass.csproj",
         "packagesPath": "C:\\Users\\gokce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\ArrayClass\\ArrayClass\\obj\\",
+        "outputPath": "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\ArrayClass\\ArrayClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gokce\\AppData\\Roaming\\NuGet\\NuGet.Config",

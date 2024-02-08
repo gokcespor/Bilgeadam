@@ -41,7 +41,7 @@ namespace ArrayClass
             // 2. parametre hedef dizi
             // 3. parametre kaç adet kopyalayacak
 
-
+            
             //Array.Copy(sehirler, 0, yeniSehirler, 0, 4);
             // 1. Parametre Kaynak dizi
             // 2. parametre kaynak dizinin kaçıncı index ninden kopyalamaya başlanır.
@@ -94,7 +94,7 @@ namespace ArrayClass
             #region Soru
             // Bir eleman bir defa mı birden çok defa mı dizinin içinde olduğunu kullanıcıya söyleyin
 
-            
+
             //Console.WriteLine("Şehir adı giriniz:");
             //string gelenSehir = Console.ReadLine();
             //int index1 = Array.IndexOf(sehirler, gelenSehir);
