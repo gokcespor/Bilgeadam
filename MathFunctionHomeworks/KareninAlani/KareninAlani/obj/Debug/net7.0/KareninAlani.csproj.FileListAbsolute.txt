@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\bin\Debug\net7.0\KareninAlani.exe
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\bin\Debug\net7.0\KareninAlani.deps.json
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\bin\Debug\net7.0\KareninAlani.runtimeconfig.json
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\bin\Debug\net7.0\KareninAlani.dll
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\bin\Debug\net7.0\KareninAlani.pdb
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\obj\Debug\net7.0\KareninAlani.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\obj\Debug\net7.0\KareninAlani.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\obj\Debug\net7.0\KareninAlani.AssemblyInfo.cs
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\obj\Debug\net7.0\KareninAlani.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\obj\Debug\net7.0\KareninAlani.sourcelink.json
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\obj\Debug\net7.0\KareninAlani.dll
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\obj\Debug\net7.0\refint\KareninAlani.dll
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\obj\Debug\net7.0\KareninAlani.pdb
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\obj\Debug\net7.0\KareninAlani.genruntimeconfig.cache
+C:\source\Bilgeadam\MathFunctionHomeworks\KareninAlani\KareninAlani\obj\Debug\net7.0\ref\KareninAlani.dll

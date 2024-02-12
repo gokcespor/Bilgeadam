@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodEnterance", "MethodEnterance\MethodEnterance.csproj", "{024119B1-CA77-4D14-970D-CEC695F815EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{024119B1-CA77-4D14-970D-CEC695F815EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024119B1-CA77-4D14-970D-CEC695F815EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024119B1-CA77-4D14-970D-CEC695F815EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024119B1-CA77-4D14-970D-CEC695F815EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {846612A4-936F-4B9E-8B6B-57ECC829E0AB}
+	EndGlobalSection
+EndGlobal

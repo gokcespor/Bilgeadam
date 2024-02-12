@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\bin\Debug\net7.0\DaireninAlani.exe
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\bin\Debug\net7.0\DaireninAlani.deps.json
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\bin\Debug\net7.0\DaireninAlani.runtimeconfig.json
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\bin\Debug\net7.0\DaireninAlani.dll
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\bin\Debug\net7.0\DaireninAlani.pdb
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\obj\Debug\net7.0\DaireninAlani.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\obj\Debug\net7.0\DaireninAlani.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\obj\Debug\net7.0\DaireninAlani.AssemblyInfo.cs
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\obj\Debug\net7.0\DaireninAlani.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\obj\Debug\net7.0\DaireninAlani.sourcelink.json
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\obj\Debug\net7.0\DaireninAlani.dll
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\obj\Debug\net7.0\refint\DaireninAlani.dll
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\obj\Debug\net7.0\DaireninAlani.pdb
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\obj\Debug\net7.0\DaireninAlani.genruntimeconfig.cache
+C:\source\Bilgeadam\MathFunctionHomeworks\DaireninAlani\DaireninAlani\obj\Debug\net7.0\ref\DaireninAlani.dll

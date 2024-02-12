@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\bin\Debug\net7.0\MethodEnterance.exe
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\bin\Debug\net7.0\MethodEnterance.deps.json
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\bin\Debug\net7.0\MethodEnterance.runtimeconfig.json
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\bin\Debug\net7.0\MethodEnterance.dll
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\bin\Debug\net7.0\MethodEnterance.pdb
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\obj\Debug\net7.0\MethodEnterance.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\obj\Debug\net7.0\MethodEnterance.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\obj\Debug\net7.0\MethodEnterance.AssemblyInfo.cs
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\obj\Debug\net7.0\MethodEnterance.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\obj\Debug\net7.0\MethodEnterance.sourcelink.json
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\obj\Debug\net7.0\MethodEnterance.dll
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\obj\Debug\net7.0\refint\MethodEnterance.dll
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\obj\Debug\net7.0\MethodEnterance.pdb
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\obj\Debug\net7.0\MethodEnterance.genruntimeconfig.cache
+C:\source\Bilgeadam\C#-derste-işlenenler\MethodEnterance\MethodEnterance\obj\Debug\net7.0\ref\MethodEnterance.dll

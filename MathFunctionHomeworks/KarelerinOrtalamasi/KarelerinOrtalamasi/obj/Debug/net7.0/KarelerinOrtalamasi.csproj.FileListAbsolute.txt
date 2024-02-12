@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\bin\Debug\net7.0\KarelerinOrtalamasi.exe
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\bin\Debug\net7.0\KarelerinOrtalamasi.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\bin\Debug\net7.0\KarelerinOrtalamasi.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\bin\Debug\net7.0\KarelerinOrtalamasi.dll
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\bin\Debug\net7.0\KarelerinOrtalamasi.pdb
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\obj\Debug\net7.0\KarelerinOrtalamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\obj\Debug\net7.0\KarelerinOrtalamasi.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\obj\Debug\net7.0\KarelerinOrtalamasi.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\obj\Debug\net7.0\KarelerinOrtalamasi.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\obj\Debug\net7.0\KarelerinOrtalamasi.dll
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\obj\Debug\net7.0\refint\KarelerinOrtalamasi.dll
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\obj\Debug\net7.0\KarelerinOrtalamasi.pdb
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\obj\Debug\net7.0\KarelerinOrtalamasi.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\dersTekrarları\KarelerinOrtalamasi\KarelerinOrtalamasi\obj\Debug\net7.0\ref\KarelerinOrtalamasi.dll
