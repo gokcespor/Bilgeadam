@@ -49,13 +49,15 @@ namespace MethodContinue
             #region Soru 2
 
             // Kullanıcıdan doğum yılını alın ve kendisine yaşını söyleyin. (Geriye değer döndüren bir methodla yapınız.)
+
+
             //Console.Write("Doğum yılınızı giriniz: ");
             //int yil = Convert.ToInt32(Console.ReadLine());
 
             //int result = DogumYili(yil);
             //Console.WriteLine(result);
 
-            //int DogumYili (int year)
+            //int DogumYili(int year)
             //{
             //    int yas = DateTime.Now.Year - yil;
             //    return yas;

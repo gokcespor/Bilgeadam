@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\bin\Debug\net7.0\RecursiveMethod.exe
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\bin\Debug\net7.0\RecursiveMethod.deps.json
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\bin\Debug\net7.0\RecursiveMethod.runtimeconfig.json
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\bin\Debug\net7.0\RecursiveMethod.dll
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\bin\Debug\net7.0\RecursiveMethod.pdb
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\obj\Debug\net7.0\RecursiveMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\obj\Debug\net7.0\RecursiveMethod.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\obj\Debug\net7.0\RecursiveMethod.AssemblyInfo.cs
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\obj\Debug\net7.0\RecursiveMethod.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\obj\Debug\net7.0\RecursiveMethod.sourcelink.json
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\obj\Debug\net7.0\RecursiveMethod.dll
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\obj\Debug\net7.0\refint\RecursiveMethod.dll
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\obj\Debug\net7.0\RecursiveMethod.pdb
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\obj\Debug\net7.0\RecursiveMethod.genruntimeconfig.cache
+C:\source\Bilgeadam\MethodHomeworks\RecursiveMethod\RecursiveMethod\obj\Debug\net7.0\ref\RecursiveMethod.dll

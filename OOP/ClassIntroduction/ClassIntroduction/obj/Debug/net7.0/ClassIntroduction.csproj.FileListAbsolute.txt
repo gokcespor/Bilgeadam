@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\bin\Debug\net7.0\ClassIntroduction.exe
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\bin\Debug\net7.0\ClassIntroduction.deps.json
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\bin\Debug\net7.0\ClassIntroduction.runtimeconfig.json
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\bin\Debug\net7.0\ClassIntroduction.dll
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\bin\Debug\net7.0\ClassIntroduction.pdb
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\obj\Debug\net7.0\ClassIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\obj\Debug\net7.0\ClassIntroduction.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\obj\Debug\net7.0\ClassIntroduction.AssemblyInfo.cs
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\obj\Debug\net7.0\ClassIntroduction.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\obj\Debug\net7.0\ClassIntroduction.sourcelink.json
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\obj\Debug\net7.0\ClassIntroduction.dll
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\obj\Debug\net7.0\refint\ClassIntroduction.dll
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\obj\Debug\net7.0\ClassIntroduction.pdb
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\obj\Debug\net7.0\ClassIntroduction.genruntimeconfig.cache
+C:\source\Bilgeadam\MethodHomeworks\ClassIntroduction\ClassIntroduction\obj\Debug\net7.0\ref\ClassIntroduction.dll

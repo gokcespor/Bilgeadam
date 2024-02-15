@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuiltinStringFunctions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b943ae1917a4b40927f2471acfe476d6171f00a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f2c962b6cf3aa6869d2cee78e38f0b6c1e2fe54")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuiltinStringFunctions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuiltinStringFunctions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

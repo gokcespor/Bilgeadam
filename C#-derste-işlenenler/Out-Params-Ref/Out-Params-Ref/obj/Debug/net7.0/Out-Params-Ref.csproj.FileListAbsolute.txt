@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\bin\Debug\net7.0\Out-Params-Ref.exe
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\bin\Debug\net7.0\Out-Params-Ref.deps.json
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\bin\Debug\net7.0\Out-Params-Ref.runtimeconfig.json
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\bin\Debug\net7.0\Out-Params-Ref.dll
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\bin\Debug\net7.0\Out-Params-Ref.pdb
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\obj\Debug\net7.0\Out-Params-Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\obj\Debug\net7.0\Out-Params-Ref.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\obj\Debug\net7.0\Out-Params-Ref.AssemblyInfo.cs
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\obj\Debug\net7.0\Out-Params-Ref.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\obj\Debug\net7.0\Out-Params-Ref.sourcelink.json
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\obj\Debug\net7.0\Out-Params-Ref.dll
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\obj\Debug\net7.0\refint\Out-Params-Ref.dll
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\obj\Debug\net7.0\Out-Params-Ref.pdb
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\obj\Debug\net7.0\Out-Params-Ref.genruntimeconfig.cache
+C:\source\Bilgeadam\MethodHomeworks\Out-Params-Ref\Out-Params-Ref\obj\Debug\net7.0\ref\Out-Params-Ref.dll

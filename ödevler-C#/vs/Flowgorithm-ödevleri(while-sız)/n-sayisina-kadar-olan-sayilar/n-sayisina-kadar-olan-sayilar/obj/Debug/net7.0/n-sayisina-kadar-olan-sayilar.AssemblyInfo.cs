@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("n-sayisina-kadar-olan-sayilar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44f9c9b9452b6b21c0b985e5687b8e04bf0c220a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f2c962b6cf3aa6869d2cee78e38f0b6c1e2fe54")]
 [assembly: System.Reflection.AssemblyProductAttribute("n-sayisina-kadar-olan-sayilar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("n-sayisina-kadar-olan-sayilar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -27,6 +27,8 @@ namespace MethodEnterance
 
             // Method = Parantrez Aç - Kapat => ()
             // Method = Sarı renk
+
+
             //void Yazdir()
             //{
             //    for (int i = 0; i < 10; i++)
@@ -36,7 +38,7 @@ namespace MethodEnterance
             //}
 
             // Çalışma
-            // 1 den 10 kadar olan sayıları ekrana ayzdıran prograı method ile birlikte yazınız.
+            // 1 den 10 kadar olan sayıları ekrana yazdıran programı method ile birlikte yazınız.
 
             //void SayilariYazdir() 
             //{
@@ -81,7 +83,7 @@ namespace MethodEnterance
 
             //Console.Write("Adınızı giriniz: ");
             //string ad = Console.ReadLine();
-            //Console.Write("Syadınızı giriniz: ");
+            //Console.Write("Soyadınızı giriniz: ");
             //string soyad = Console.ReadLine();
             //Email(ad, soyad);
 
