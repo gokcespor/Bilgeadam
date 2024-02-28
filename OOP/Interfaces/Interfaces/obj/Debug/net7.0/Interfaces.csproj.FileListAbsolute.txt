@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.exe
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.dll
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.dll
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\Interfaces\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll

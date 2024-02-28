@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m70TPU80YcGxJ1JT7/AEJ9j4t6chJTxjRBqTBTVjrv+9yQcqwP4RGe1WwQhjRDhjmgVwVGbKLPef19DW+/ExlQ==",
+  "success": true,
+  "projectFilePath": "C:\\source\\Bilgeadam\\OOP\\Polymorphizm\\Polymorphizm\\Polymorphizm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gokce\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\bin\Debug\net7.0\GokceSporAlagoz-Sinav1.exe
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\bin\Debug\net7.0\GokceSporAlagoz-Sinav1.deps.json
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\bin\Debug\net7.0\GokceSporAlagoz-Sinav1.runtimeconfig.json
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\bin\Debug\net7.0\GokceSporAlagoz-Sinav1.dll
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\bin\Debug\net7.0\GokceSporAlagoz-Sinav1.pdb
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\obj\Debug\net7.0\GokceSporAlagoz-Sinav1.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\obj\Debug\net7.0\GokceSporAlagoz-Sinav1.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\obj\Debug\net7.0\GokceSporAlagoz-Sinav1.AssemblyInfo.cs
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\obj\Debug\net7.0\GokceSporAlagoz-Sinav1.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\obj\Debug\net7.0\GokceSporAlagoz-Sinav1.sourcelink.json
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\obj\Debug\net7.0\GokceSporAlagoz-Sinav1.dll
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\obj\Debug\net7.0\refint\GokceSporAlagoz-Sinav1.dll
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\obj\Debug\net7.0\GokceSporAlagoz-Sinav1.pdb
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\obj\Debug\net7.0\GokceSporAlagoz-Sinav1.genruntimeconfig.cache
+C:\source\Bilgeadam\MethodHomeworks\GokceSporAlagoz-Sinav1\GokceSporAlagoz-Sinav1\obj\Debug\net7.0\ref\GokceSporAlagoz-Sinav1.dll

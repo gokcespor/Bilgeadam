@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\bin\Debug\net7.0\Encapsulation.exe
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\bin\Debug\net7.0\Encapsulation.deps.json
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\bin\Debug\net7.0\Encapsulation.runtimeconfig.json
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\bin\Debug\net7.0\Encapsulation.dll
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\bin\Debug\net7.0\Encapsulation.pdb
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfo.cs
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.sourcelink.json
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.dll
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\obj\Debug\net7.0\refint\Encapsulation.dll
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.pdb
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\obj\Debug\net7.0\Encapsulation.genruntimeconfig.cache
+C:\source\Bilgeadam\MethodHomeworks\Encapsulation\Encapsulation\obj\Debug\net7.0\ref\Encapsulation.dll

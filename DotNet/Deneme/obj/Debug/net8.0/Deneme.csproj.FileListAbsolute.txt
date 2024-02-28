@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\bin\Debug\net8.0\Deneme.exe
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\bin\Debug\net8.0\Deneme.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\bin\Debug\net8.0\Deneme.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\bin\Debug\net8.0\Deneme.dll
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\bin\Debug\net8.0\Deneme.pdb
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\obj\Debug\net8.0\Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\obj\Debug\net8.0\Deneme.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\obj\Debug\net8.0\Deneme.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\obj\Debug\net8.0\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\obj\Debug\net8.0\Deneme.dll
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\obj\Debug\net8.0\refint\Deneme.dll
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\obj\Debug\net8.0\Deneme.pdb
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\obj\Debug\net8.0\Deneme.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\Deneme\obj\Debug\net8.0\ref\Deneme.dll

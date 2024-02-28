@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\bin\Debug\net7.0\IEnumerators.exe
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\bin\Debug\net7.0\IEnumerators.deps.json
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\bin\Debug\net7.0\IEnumerators.runtimeconfig.json
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\bin\Debug\net7.0\IEnumerators.dll
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\bin\Debug\net7.0\IEnumerators.pdb
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\obj\Debug\net7.0\IEnumerators.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\obj\Debug\net7.0\IEnumerators.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\obj\Debug\net7.0\IEnumerators.AssemblyInfo.cs
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\obj\Debug\net7.0\IEnumerators.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\obj\Debug\net7.0\IEnumerators.sourcelink.json
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\obj\Debug\net7.0\IEnumerators.dll
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\obj\Debug\net7.0\refint\IEnumerators.dll
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\obj\Debug\net7.0\IEnumerators.pdb
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\obj\Debug\net7.0\IEnumerators.genruntimeconfig.cache
+C:\source\Bilgeadam\OOP\IEnumerators\IEnumerators\obj\Debug\net7.0\ref\IEnumerators.dll

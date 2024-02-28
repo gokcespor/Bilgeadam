@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\obj\Debug\net7.0\Calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\obj\Debug\net7.0\Calculater.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\obj\Debug\net7.0\Calculater.AssemblyInfo.cs
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\obj\Debug\net7.0\Calculater.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\obj\Debug\net7.0\Calculater.sourcelink.json
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\bin\Debug\net7.0\Calculater.exe
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\bin\Debug\net7.0\Calculater.deps.json
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\bin\Debug\net7.0\Calculater.runtimeconfig.json
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\bin\Debug\net7.0\Calculater.dll
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\bin\Debug\net7.0\Calculater.pdb
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\obj\Debug\net7.0\Calculater.dll
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\obj\Debug\net7.0\refint\Calculater.dll
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\obj\Debug\net7.0\Calculater.pdb
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\obj\Debug\net7.0\Calculater.genruntimeconfig.cache
+C:\source\Bilgeadam\MethodHomeworks\Calculater\Calculater\obj\Debug\net7.0\ref\Calculater.dll

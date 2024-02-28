@@ -14,7 +14,7 @@ namespace ClassIntroduction
      * Sınıf(Class) nesnelerin şablonudur. Class içerisinde nesnelerin durumları ile ilgili işlem ve özellikler tanımlanır.
      * 
      * Field Nedir?
-     * Class yada struct içerisinde tanımlanan dışarıya kapalı değişkenlerdir. Field değişkenler tanımlanırken erişim belirteci, tipi ve isimi şeklinde tanımlanı. Kültür olarak "_" ile başlar ve camelCase yazım şekli ile devam eder.
+     * Class ya da struct içerisinde tanımlanan dışarıya kapalı değişkenlerdir. Field değişkenler tanımlanırken erişim belirteci, tipi ve isimi şeklinde tanımlanır. Kültür olarak "_" ile başlar ve camelCase yazım şekli ile devam eder.
      * 
      * Property Nedir?
      * Property field'a değer atamak ve field'daki değeri okumak için kullanılan aracı bir yapıdır. Property bir değer ataması gerçekleştirirken SET methodu, Property içinde değeri okumak için ise GET methodu çalışır.

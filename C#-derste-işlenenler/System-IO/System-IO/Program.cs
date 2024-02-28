@@ -6,7 +6,7 @@ namespace System_IO
     {
         static void Main(string[] args)
         {
-            #region Directory (Klasör) İşlemleri
+        #region Directory (Klasör) İşlemleri
             // Klasör ekleme
             //Directory.CreateDirectory(@"C:\Users\gokce\OneDrive\Masaüstü\YeniProje");
             //Directory.CreateDirectory(@"C:\Users\gokce\OneDrive\Masaüstü\YeniProje\Deneme-1");
@@ -18,27 +18,27 @@ namespace System_IO
 
             //string[] klasorler = Directory.GetDirectories(@"C:\Users\gokce\OneDrive\Masaüstü\YeniProje");
 
-            //foreach (var klasor in klasorler)
+            //foreach(var klasor in klasorler)
             //{
             //    Console.WriteLine(klasor);
             //}
 
             //// Var olan dosysyı siler. Verilen dosya yoluna ekler.
 
-            //if (!Directory.Exists(@"C:\Users\gokce\OneDrive\Masaüstü\YeniProje\Deneme-2\Deneme-1"))// Deneme-2 içinde Deneme-1 yoksa oluştursun, varsa oluşturmasın
+            //if(!Directory.Exists(@"C:\Users\gokce\OneDrive\Masaüstü\YeniProje\Deneme-2\Deneme-1"))// Deneme-2 içinde Deneme-1 yoksa oluştursun, varsa oluşturmasın
             //{
             //    // İlk verilen kısımdaki klasörü siler, ikinci verdiğiniz kısmma ekler
             //    Directory.Move(@"C:\Users\gokce\OneDrive\Masaüstü\YeniProje\Deneme-1", @"C:\Users\gokce\OneDrive\Masaüstü\YeniProje\Deneme-2\Deneme-1");
             //}
 
             //// Deneme-3 klasörü varsa siler
-            //if (Directory.Exists(@"C:\Users\gokce\OneDrive\Masaüstü\YeniProje\Deneme-3"))
+            //if(Directory.Exists(@"C:\Users\gokce\OneDrive\Masaüstü\YeniProje\Deneme-3"))
             //{
             //    Directory.Delete(@"C:\Users\gokce\OneDrive\Masaüstü\YeniProje\Deneme-3");
             //}
             #endregion
 
-            #region Sürücü İşlemleri
+        #region Sürücü İşlemleri
             // DriveInfo: Sürücü bilgilerine erişim
             //DriveInfo[] tumSuruculer = DriveInfo.GetDrives();
 

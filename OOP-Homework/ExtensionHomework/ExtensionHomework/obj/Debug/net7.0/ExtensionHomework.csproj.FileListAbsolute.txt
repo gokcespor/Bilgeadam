@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\bin\Debug\net7.0\ExtensionHomework.exe
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\bin\Debug\net7.0\ExtensionHomework.deps.json
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\bin\Debug\net7.0\ExtensionHomework.runtimeconfig.json
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\bin\Debug\net7.0\ExtensionHomework.dll
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\bin\Debug\net7.0\ExtensionHomework.pdb
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\obj\Debug\net7.0\ExtensionHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\obj\Debug\net7.0\ExtensionHomework.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\obj\Debug\net7.0\ExtensionHomework.AssemblyInfo.cs
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\obj\Debug\net7.0\ExtensionHomework.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\obj\Debug\net7.0\ExtensionHomework.sourcelink.json
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\obj\Debug\net7.0\ExtensionHomework.dll
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\obj\Debug\net7.0\refint\ExtensionHomework.dll
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\obj\Debug\net7.0\ExtensionHomework.pdb
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\obj\Debug\net7.0\ExtensionHomework.genruntimeconfig.cache
+C:\source\Bilgeadam\OOP-Homework\ExtensionHomework\ExtensionHomework\obj\Debug\net7.0\ref\ExtensionHomework.dll

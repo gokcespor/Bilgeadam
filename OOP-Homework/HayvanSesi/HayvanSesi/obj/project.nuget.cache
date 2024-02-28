@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DQfaRg2Dl2XS7lbxNi9K7vos6SepKkibfBt3VCFZFjFcj0CpadhLoTCd4g+LaKLAAfqoGqGTqvtPOivPXIjUeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\HayvanSesi\\HayvanSesi\\HayvanSesi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gokce\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

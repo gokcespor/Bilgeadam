@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\Bilgeadam\\MethodHomeworks\\System-IO\\System-IO\\System-IO.csproj": {}
+    "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\System-IO\\System-IO\\System-IO.csproj": {}
   },
   "projects": {
-    "C:\\source\\Bilgeadam\\MethodHomeworks\\System-IO\\System-IO\\System-IO.csproj": {
+    "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\System-IO\\System-IO\\System-IO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\Bilgeadam\\MethodHomeworks\\System-IO\\System-IO\\System-IO.csproj",
+        "projectUniqueName": "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\System-IO\\System-IO\\System-IO.csproj",
         "projectName": "System-IO",
-        "projectPath": "C:\\source\\Bilgeadam\\MethodHomeworks\\System-IO\\System-IO\\System-IO.csproj",
+        "projectPath": "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\System-IO\\System-IO\\System-IO.csproj",
         "packagesPath": "C:\\Users\\gokce\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\Bilgeadam\\MethodHomeworks\\System-IO\\System-IO\\obj\\",
+        "outputPath": "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\System-IO\\System-IO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gokce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

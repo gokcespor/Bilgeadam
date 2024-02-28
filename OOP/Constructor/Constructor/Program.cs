@@ -1,4 +1,4 @@
-﻿namespace Constructor
+﻿ namespace Constructor
 {
     internal class Program
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\Bilgeadam\\MethodHomeworks\\Constructor\\Constructor\\Constructor.csproj": {}
+    "C:\\source\\Bilgeadam\\OOP\\Constructor\\Constructor\\Constructor.csproj": {}
   },
   "projects": {
-    "C:\\source\\Bilgeadam\\MethodHomeworks\\Constructor\\Constructor\\Constructor.csproj": {
+    "C:\\source\\Bilgeadam\\OOP\\Constructor\\Constructor\\Constructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\Bilgeadam\\MethodHomeworks\\Constructor\\Constructor\\Constructor.csproj",
+        "projectUniqueName": "C:\\source\\Bilgeadam\\OOP\\Constructor\\Constructor\\Constructor.csproj",
         "projectName": "Constructor",
-        "projectPath": "C:\\source\\Bilgeadam\\MethodHomeworks\\Constructor\\Constructor\\Constructor.csproj",
+        "projectPath": "C:\\source\\Bilgeadam\\OOP\\Constructor\\Constructor\\Constructor.csproj",
         "packagesPath": "C:\\Users\\gokce\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\Bilgeadam\\MethodHomeworks\\Constructor\\Constructor\\obj\\",
+        "outputPath": "C:\\source\\Bilgeadam\\OOP\\Constructor\\Constructor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gokce\\AppData\\Roaming\\NuGet\\NuGet.Config",

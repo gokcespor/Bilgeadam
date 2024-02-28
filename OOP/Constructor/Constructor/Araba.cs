@@ -25,7 +25,7 @@ namespace Constructor
 
         }
         public string Marka { get; set; }
-        public string Model{ get; set;}      
+        public string Model{ get; set; }      
         public double Motor { get; set; }
     }
 }

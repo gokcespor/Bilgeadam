@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\Array_List\\Array_List\\Array_List.csproj",
+      "projectUniqueName": "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\Array_List\\Array_List\\Array_List.csproj",
       "projectName": "Array_List",
-      "projectPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\Array_List\\Array_List\\Array_List.csproj",
+      "projectPath": "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\Array_List\\Array_List\\Array_List.csproj",
       "packagesPath": "C:\\Users\\gokce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\BilgeAdam\\4.hafta\\Array_List\\Array_List\\obj\\",
+      "outputPath": "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\Array_List\\Array_List\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gokce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

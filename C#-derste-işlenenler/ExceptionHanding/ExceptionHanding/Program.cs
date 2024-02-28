@@ -8,9 +8,9 @@
              * Exception (İstisna) Türleri
              * 
              * 1) Runtime Exception (Çalışma Zamanı Hataları) => Çoğunlukla karşı taraf kaynaklı hatalardır.
-             * Verilen sözlerin tutulmaması(sayi gireceğim diyip, harf girilmesi) ya da eksek ya da boş girilmesi örnek gösterilebilir. Burada yazılıöcı olabilecek tüm ihtimallere kontrollü eğer ki yapmazsa programın hata vermesi çok muhtemeldir.
+             * Verilen sözlerin tutulmaması(sayi gireceğim diyip, harf girilmesi) ya da eksek ya da boş girilmesi örnek gösterilebilir. Burada yazılımcı olabilecek tüm ihtimallere kontrollü eğer ki yapmazsa programın hata vermesi çok muhtemeldir.
              * 2) Syntax Exception (Söz Dizimi Hatası) => Tamamen yazılımcı kaynaklı hatadır. Yazılım hataları meydana geldiğinde devreye girer. En kolay çözülen hata tipidir. VS sizi uyarır. (Aşağıdaki Error List penceresinde) İlgili hataya çift tıklayıp detaya gidebilir ve hatayı anında düzeltebilirsiniz.
-             * 3) Logical Error (Mantıksal Hatalar) => Tamamen programcı kaynaklı hatalardır. Uygulamanın algaritmasında meydana gelir. Örneğin bölme işlemi yapılacak bir yerde işlemin unutulması, değerin yanlış değerle değiştirilmesi... Çözülmesi en zor hatalardır. BU yüzden anlık olarak her şeyi takip etmeli ve gelen değerleri gözlemlemelisiniz. Eğer ki uygun olmayam bir şeyle karşılaşırsanız sorunu o an çözmelisiniz. Bu konuda VS nun size sağladığı tool larla bu işlemi halledebilirsiniz. (Immediate Window, Watch, Breakpoint)
+             * 3) Logical Error (Mantıksal Hatalar) => Tamamen programcı kaynaklı hatalardır. Uygulamanın algaritmasında meydana gelir. Örneğin bölme işlemi yapılacak bir yerde işlemin unutulması, değerin yanlış değerle değiştirilmesi... Çözülmesi en zor hatalardır. BU yüzden anlık olarak her şeyi takip etmeli ve gelen değerleri gözlemlemelisiniz. Eğer ki uygun olmayan bir şeyle karşılaşırsanız sorunu o an çözmelisiniz. Bu konuda VS nun size sağladığı tool larla bu işlemi halledebilirsiniz. (Immediate Window, Watch, Breakpoint)
              */
 
             /*
@@ -18,11 +18,11 @@
              * 
              * F11 adım adım ilerleyebilirsiniz. Değişkenlerin, nesnelerin üzerine gelip o anki değerlerini öğrenebilirsiniz, İşlemin bittiğine inanıyorsanız F5 e basıp breakpoint den çıkabilir ve işlemin kendisinin devam etmesini sağlayabilirsiniz.
              * 
-             * Sol blogkta çıkan sarı ok, derlenen satırlarının işaretçisidir. Mouse yardımıyla ileri ya da geri oynetabilir yani adımları ya da tekrarlatabilirsiniz.
+             * Sol blokta çıkan sarı ok, derlenen satırlarının işaretçisidir. Mouse yardımıyla ileri ya da geri oynetabilir yani adımları ya da tekrarlatabilirsiniz.
              * 
-             * WATCH => Yalnızca run-time da (çalışma zamanı) kullanacbileceğiniz bir tool dur. Dolayısıyla pencereyi yalnızca çalışma zamanında görürsünüz.
+             * WATCH => Yalnızca run-time da (çalışma zamanı) kullanabileceğiniz bir tool dur. Dolayısıyla pencereyi yalnızca çalışma zamanında görürsünüz.
              * İlk ayarlarınız WATCH penceresi kapalı olabilir. Uygulnamanızı çalıştırıp "CTRL" + "ALT" + "W" ardından 1 e basarak Watch penceresi getirirsiniz.
-             * Run-Time da elinizde olan değerleri (kontrol değerleri, değişken değerleri) değiştirmenize, izlemenize olanak sağlayan yardımı tool dur. Açılan penceredeki "NAame" alanına ilgili değişkenin adını yazın "Enter" a basarsanız, "Value" alanındaki o anki değerlerini gözlemleyebilirsiniz. Ancak "CTRL + SPACE" kombinasyonu ile intellisence i aktif hale getirirsek otomatik bir şakilde veriyi getirebilirsiniz.
+             * Run-Time da elinizde olan değerleri (kontrol değerleri, değişken değerleri) değiştirmenize, izlemenize olanak sağlayan yardımcı tool dur. Açılan penceredeki "Name" alanına ilgili değişkenin adını yazın "Enter" a basarsanız, "Value" alanındaki o anki değerlerini gözlemleyebilirsiniz. Ancak "CTRL + SPACE" kombinasyonu ile intellisence i aktif hale getirirsek otomatik bir şakilde veriyi getirebilirsiniz.
              * 
              */
 
@@ -38,7 +38,7 @@
             //catch
             //{
             //    // Hata verdikten sonra çalışacak kodlar yazılır.
-            //    Console.WriteLine("Yaşıını yazmayı bile beceremedin!!");
+            //    Console.WriteLine("Yaşını yazmayı bile beceremedin!!");
             //    throw;
             //}
             #endregion

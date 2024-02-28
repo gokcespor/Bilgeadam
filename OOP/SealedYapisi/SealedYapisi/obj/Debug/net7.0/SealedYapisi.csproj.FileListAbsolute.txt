@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\bin\Debug\net7.0\SealedYapisi.exe
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\bin\Debug\net7.0\SealedYapisi.deps.json
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\bin\Debug\net7.0\SealedYapisi.runtimeconfig.json
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\bin\Debug\net7.0\SealedYapisi.dll
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\bin\Debug\net7.0\SealedYapisi.pdb
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\obj\Debug\net7.0\SealedYapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\obj\Debug\net7.0\SealedYapisi.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\obj\Debug\net7.0\SealedYapisi.AssemblyInfo.cs
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\obj\Debug\net7.0\SealedYapisi.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\obj\Debug\net7.0\SealedYapisi.sourcelink.json
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\obj\Debug\net7.0\SealedYapisi.dll
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\obj\Debug\net7.0\refint\SealedYapisi.dll
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\obj\Debug\net7.0\SealedYapisi.pdb
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\obj\Debug\net7.0\SealedYapisi.genruntimeconfig.cache
+C:\source\Bilgeadam\OOP\SealedYapisi\SealedYapisi\obj\Debug\net7.0\ref\SealedYapisi.dll

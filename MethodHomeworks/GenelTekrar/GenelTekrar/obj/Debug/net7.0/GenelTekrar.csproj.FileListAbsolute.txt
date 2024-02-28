@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\obj\Debug\net7.0\GenelTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\obj\Debug\net7.0\GenelTekrar.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\obj\Debug\net7.0\GenelTekrar.AssemblyInfo.cs
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\obj\Debug\net7.0\GenelTekrar.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\obj\Debug\net7.0\GenelTekrar.sourcelink.json
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\bin\Debug\net7.0\GenelTekrar.exe
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\bin\Debug\net7.0\GenelTekrar.deps.json
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\bin\Debug\net7.0\GenelTekrar.runtimeconfig.json
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\bin\Debug\net7.0\GenelTekrar.dll
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\bin\Debug\net7.0\GenelTekrar.pdb
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\obj\Debug\net7.0\GenelTekrar.dll
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\obj\Debug\net7.0\refint\GenelTekrar.dll
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\obj\Debug\net7.0\GenelTekrar.pdb
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\obj\Debug\net7.0\GenelTekrar.genruntimeconfig.cache
+C:\source\Bilgeadam\MethodHomeworks\GenelTekrar\GenelTekrar\obj\Debug\net7.0\ref\GenelTekrar.dll

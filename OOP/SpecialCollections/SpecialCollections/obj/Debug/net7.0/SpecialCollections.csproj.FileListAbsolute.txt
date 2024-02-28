@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\bin\Debug\net7.0\SpecialCollections.exe
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\bin\Debug\net7.0\SpecialCollections.deps.json
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\bin\Debug\net7.0\SpecialCollections.runtimeconfig.json
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\bin\Debug\net7.0\SpecialCollections.dll
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\bin\Debug\net7.0\SpecialCollections.pdb
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\obj\Debug\net7.0\SpecialCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\obj\Debug\net7.0\SpecialCollections.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\obj\Debug\net7.0\SpecialCollections.AssemblyInfo.cs
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\obj\Debug\net7.0\SpecialCollections.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\obj\Debug\net7.0\SpecialCollections.sourcelink.json
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\obj\Debug\net7.0\SpecialCollections.dll
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\obj\Debug\net7.0\refint\SpecialCollections.dll
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\obj\Debug\net7.0\SpecialCollections.pdb
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\obj\Debug\net7.0\SpecialCollections.genruntimeconfig.cache
+C:\source\Bilgeadam\OOP\SpecialCollections\SpecialCollections\obj\Debug\net7.0\ref\SpecialCollections.dll
