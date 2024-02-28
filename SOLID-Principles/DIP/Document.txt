@@ -1,0 +1,5 @@
+﻿Dependensy Inversion Principle(Bağımlılıkları ters çevirme)
+
+Bu ilken,n ana fikri, alt ya da üst seviyeli sınıflaraın seviyelerine bakılmaksızın soyutlamalaa bağlı olması gerektiğini söylemektedir. Bu ilkedeki temel amaç sınıflar arqası bağımlılığı kırmak ve loose couple (gevşek bağlı) sınınflar oluşturmaktır. Çünkü tight couple (sıkı bağlı) sınıflar projemizi extend etmemizi(genişletmek) ya da ölçeklendirmemiz için önümüzdeki engellereden biridir.
+
+Somut bir örnek vermek gerekirse kumanda ve pil arasındaki ilişkiyi düşünelim. Kumanda ile pil arasında tight couple ilişki vardır. Fakat kumanda ile pil markası arasında loose couple bir ilişki vardır. Çünkü kumandanın çalışması için elzem olan şey kumandanın pili olmasıdır. marka ne olursa olsun kumanda çalışacaktır. Bu yüzden de kumanda ile kumanda pilinin markası birbirine loose couple olarak bağlıdır.

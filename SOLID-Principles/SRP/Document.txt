@@ -1,0 +1,3 @@
+﻿1) Single Responsibility Principle
+
+Bu ilke, uygulamada kullanılan sınıfların, modüllerin ya da methodların sadece bir sorumluluğu olması gerektiğini söylemektedir. Yani sınıf ya da methodu değiştirmek için sedece bir neden olmalıdır. Burada anlatılmak istenene bir sınıfın modifikasyona mümkün mertebe kapatılmasıdır. Sınıf üzerinde habire değişiklik yapmamalıyız. Bir sınıfın üzerine fazla iş yüklediyse bu işlerde değişiklik yapmak istediğimde sınıfta modifikasyona neden olacağım demektir. Böylelikle bu prensibe ters düşeceğim. Şayet sınıfıma bir iş yüklemiş olsaydım sınıf üzerinde bir değişiklik yapmak için bir nedenim olacaktı ve prensibe uymuş olacaktık.

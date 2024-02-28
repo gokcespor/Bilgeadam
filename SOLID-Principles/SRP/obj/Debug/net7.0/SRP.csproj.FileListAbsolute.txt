@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\bin\Debug\net7.0\SRP.exe
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\bin\Debug\net7.0\SRP.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\bin\Debug\net7.0\SRP.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\bin\Debug\net7.0\SRP.dll
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\bin\Debug\net7.0\SRP.pdb
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\obj\Debug\net7.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\obj\Debug\net7.0\SRP.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\obj\Debug\net7.0\SRP.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\obj\Debug\net7.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\obj\Debug\net7.0\SRP.dll
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\obj\Debug\net7.0\refint\SRP.dll
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\obj\Debug\net7.0\SRP.pdb
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\obj\Debug\net7.0\SRP.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\SOLID-Principles\SRP\obj\Debug\net7.0\ref\SRP.dll
