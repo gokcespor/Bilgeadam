@@ -16,14 +16,11 @@ namespace Encapsulation
     public class Urun
     {
         private int _id;
-        private string _ad;
-        private double _fiyat;
-
         public int Id { get => _id; set => _id = value; }
-
+        private string _ad;
         public string Ad { get => _ad; set => _ad = value; }
-
-        public double Fiyat 
+        private double _fiyat;
+        public double Fiyat
         {
             get => _fiyat;
             set

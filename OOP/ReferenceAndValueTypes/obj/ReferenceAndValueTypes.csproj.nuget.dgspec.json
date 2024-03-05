@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\ReferenceAndValueTypes\\ReferenceAndValueTypes.csproj": {}
+    "C:\\source\\Bilgeadam\\OOP\\ReferenceAndValueTypes\\ReferenceAndValueTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\ReferenceAndValueTypes\\ReferenceAndValueTypes.csproj": {
+    "C:\\source\\Bilgeadam\\OOP\\ReferenceAndValueTypes\\ReferenceAndValueTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\ReferenceAndValueTypes\\ReferenceAndValueTypes.csproj",
+        "projectUniqueName": "C:\\source\\Bilgeadam\\OOP\\ReferenceAndValueTypes\\ReferenceAndValueTypes.csproj",
         "projectName": "ReferenceAndValueTypes",
-        "projectPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\ReferenceAndValueTypes\\ReferenceAndValueTypes.csproj",
+        "projectPath": "C:\\source\\Bilgeadam\\OOP\\ReferenceAndValueTypes\\ReferenceAndValueTypes.csproj",
         "packagesPath": "C:\\Users\\gokce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\ReferenceAndValueTypes\\obj\\",
+        "outputPath": "C:\\source\\Bilgeadam\\OOP\\ReferenceAndValueTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gokce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

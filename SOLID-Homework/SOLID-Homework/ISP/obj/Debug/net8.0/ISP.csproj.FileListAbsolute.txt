@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\bin\Debug\net8.0\ISP.exe
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\bin\Debug\net8.0\ISP.deps.json
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\bin\Debug\net8.0\ISP.runtimeconfig.json
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\bin\Debug\net8.0\ISP.dll
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\bin\Debug\net8.0\ISP.pdb
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\obj\Debug\net8.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\obj\Debug\net8.0\ISP.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\obj\Debug\net8.0\ISP.AssemblyInfo.cs
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\obj\Debug\net8.0\ISP.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\obj\Debug\net8.0\ISP.sourcelink.json
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\obj\Debug\net8.0\ISP.dll
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\obj\Debug\net8.0\refint\ISP.dll
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\obj\Debug\net8.0\ISP.pdb
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\obj\Debug\net8.0\ISP.genruntimeconfig.cache
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\ISP\obj\Debug\net8.0\ref\ISP.dll

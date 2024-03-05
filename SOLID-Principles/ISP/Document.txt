@@ -1,3 +1,3 @@
 ﻿InterFace Segreation Principle
 
-Bu prensibi ortaya atan, alt sınıfların üst sınıflarda gereksiz yetenekleri kalıtım yoluyla alınmamasını istiyor. Bir başka dğişle herhangi bir concrete sınıf kendisiyle ilgisi olmayan interfacelerden yetenek almamalıdır. Bu ilkeyi SRP ve LSP ile birlikte düşünmekte fayda var. Bu prensip şişman interfacelerden hoşlanmaz. Yetenekler ile şişirilmiş bir arayüz gereksiz birçok yetenek almasına sebebiyet verir. Böylelikle bu prensibe ters düşmüş oluruz.
+Bu prensibi ortaya atan, alt sınıfların üst sınıflarda gereksiz yetenekleri kalıtım yoluyla alınmamasını istiyor. Bir başka değişle herhangi bir concrete sınıf kendisiyle ilgisi olmayan interfacelerden yetenek almamalıdır. Bu ilkeyi SRP ve LSP ile birlikte düşünmekte fayda var. Bu prensip şişman interfacelerden hoşlanmaz. Yetenekler ile şişirilmiş bir arayüz gereksiz birçok yetenek almasına sebebiyet verir. Böylelikle bu prensibe ters düşmüş oluruz.

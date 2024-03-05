@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\Çalıışşş\\SOLID-Principles\\DIP\\DIP.csproj",
+      "projectUniqueName": "C:\\source\\Bilgeadam\\SOLID-Principles\\DIP\\DIP.csproj",
       "projectName": "DIP",
-      "projectPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\Çalıışşş\\SOLID-Principles\\DIP\\DIP.csproj",
+      "projectPath": "C:\\source\\Bilgeadam\\SOLID-Principles\\DIP\\DIP.csproj",
       "packagesPath": "C:\\Users\\gokce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\Çalıışşş\\SOLID-Principles\\DIP\\obj\\",
+      "outputPath": "C:\\source\\Bilgeadam\\SOLID-Principles\\DIP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gokce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\obj\Debug\net8.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\obj\Debug\net8.0\SRP.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\obj\Debug\net8.0\SRP.AssemblyInfo.cs
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\obj\Debug\net8.0\SRP.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\obj\Debug\net8.0\SRP.sourcelink.json
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\bin\Debug\net8.0\SRP.exe
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\bin\Debug\net8.0\SRP.deps.json
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\bin\Debug\net8.0\SRP.runtimeconfig.json
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\bin\Debug\net8.0\SRP.dll
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\bin\Debug\net8.0\SRP.pdb
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\obj\Debug\net8.0\SRP.dll
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\obj\Debug\net8.0\refint\SRP.dll
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\obj\Debug\net8.0\SRP.pdb
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\obj\Debug\net8.0\SRP.genruntimeconfig.cache
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SRP\obj\Debug\net8.0\ref\SRP.dll

@@ -14,12 +14,12 @@ namespace SRP.GoodExamples
             StringBuilder stringBuilder = new StringBuilder(); // string dosyası kullanmak için oluşturuldu
             try
             { 
-                #region İşlem 2: ÇAlışanın sisteme giriş yapması sonucunda oluşan Log ların(Kayıtların) tutulması
+                #region İşlem 2: Çalışanın sisteme giriş yapması sonucunda oluşan Log ların(Kayıtların) tutulması
                 stringBuilder = new StringBuilder();
                 stringBuilder.AppendLine();
                 stringBuilder.Append("Giriş Tarihi: " + DateTime.Now);
                 stringBuilder.AppendLine();
-                stringBuilder.Append("Çaışan " + employee.FirstName + " " + employee.LastName);
+                stringBuilder.Append("Çalışan " + employee.FirstName + " " + employee.LastName);
 
                 File.WriteAllText(@"C:\Users\gokce\OneDrive\Masaüstü\Database\LogDB.txt", stringBuilder.ToString());
                 #endregion

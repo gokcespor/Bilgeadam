@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.exe
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.dll
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.pdb
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.dll
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\obj\Debug\net8.0\refint\FactoryPattern.dll
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.pdb
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\FactoryPattern\obj\Debug\net8.0\ref\FactoryPattern.dll

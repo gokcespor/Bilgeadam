@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\Bilgeadam\\MethodHomeworks\\Out-Params-Ref\\Out-Params-Ref\\Out-Params-Ref.csproj",
+      "projectUniqueName": "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\Out-Params-Ref\\Out-Params-Ref\\Out-Params-Ref.csproj",
       "projectName": "Out-Params-Ref",
-      "projectPath": "C:\\source\\Bilgeadam\\MethodHomeworks\\Out-Params-Ref\\Out-Params-Ref\\Out-Params-Ref.csproj",
+      "projectPath": "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\Out-Params-Ref\\Out-Params-Ref\\Out-Params-Ref.csproj",
       "packagesPath": "C:\\Users\\gokce\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\Bilgeadam\\MethodHomeworks\\Out-Params-Ref\\Out-Params-Ref\\obj\\",
+      "outputPath": "C:\\source\\Bilgeadam\\C#-derste-işlenenler\\Out-Params-Ref\\Out-Params-Ref\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gokce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

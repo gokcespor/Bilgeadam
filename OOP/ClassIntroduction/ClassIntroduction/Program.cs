@@ -70,7 +70,7 @@
             p = null; //Burada referansının null olduğunu söylüyoruz.
             p.FirstName = "Sina"; //Referansına null verdikten sonra property'lerine birşeyler ekleme isterseni NULLReferenceException hatasını fırlatır. O yüzden kod çalışmaz.
 
-            Nesne Üretme(New'leme ile)
+            //Nesne Üretme(New'leme ile)
             Person p;//Burada önce Stack alanına pointer ekledik. 
             new Person();  //Daha sonra heap alanında bir yer açtık.(Instance işlemi)
 
@@ -80,7 +80,7 @@
 
             p = new Person(); //Tekrar new'leme işlemi yaptığımızda 63. satırdaki new'lemede üretilen HEAP alanının içindeki yer Garbage Collector tarafından silinir.(Stack alanında referansı olmadığı için!)
 
-            Nesne Üretme(Method ile)
+            //Nesne Üretme(Method ile)
             Person p = CreatePerson(); //Burada ise nesne üretimini bir method aracılığuı ile gerçekleştirdik. Methodun içinde üretilen "person" pointer'ını işaret ettiği HEAP alanındaki yer burada ki "p" pointerına atanır ve "person" pointer'ı silinir.
             Console.WriteLine(p.GetHashCode()); //Burada ise RAM'da referans verdiği noktanın adresini görüntülüyebiliyoruz.(GetHashCode methodu ile.)
             #endregion

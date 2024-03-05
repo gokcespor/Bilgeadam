@@ -18,7 +18,7 @@ namespace OCP
             var latte = new Latte();
             Console.WriteLine(latte.GetTotalPrice(3));
 
-            var americano = new Latte();
+            var americano = new Americano();
             Console.WriteLine(americano.GetTotalPrice(3));
             
             #endregion

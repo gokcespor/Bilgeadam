@@ -30,7 +30,7 @@ namespace SRP.BadExample
                 File.WriteAllText(@"C:\Users\gokce\OneDrive\Masaüstü\Database\PersonelDB.txt", stringBuilder.ToString());
                 #endregion
 
-                #region İşlem 2: ÇAlışanın sisteme giriş yapması sonucunda oluşan Log ların(Kayıtların) tutulması
+                #region İşlem 2: Çalışanın sisteme giriş yapması sonucunda oluşan Log ların(Kayıtların) tutulması
                 stringBuilder = new StringBuilder();
                 stringBuilder.AppendLine();
                 stringBuilder.Append("Giriş Tarihi: " + DateTime.Now);

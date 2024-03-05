@@ -1,0 +1,10 @@
+﻿Paketlerin kurulum kodları
+
+1)install-package microsoft.entityframeworkcore.sqlserver
+2)install-package microsoft.entityframeworkcore.tools
+
+Migration Komutu
+add-migration InitialCreate
+
+Database'e yükleme
+update-database

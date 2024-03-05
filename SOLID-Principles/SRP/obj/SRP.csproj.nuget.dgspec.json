@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\Çalıışşş\\SOLID-Principles\\SRP\\SRP.csproj": {}
+    "C:\\source\\Bilgeadam\\SOLID-Principles\\SRP\\SRP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\Çalıışşş\\SOLID-Principles\\SRP\\SRP.csproj": {
+    "C:\\source\\Bilgeadam\\SOLID-Principles\\SRP\\SRP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\Çalıışşş\\SOLID-Principles\\SRP\\SRP.csproj",
+        "projectUniqueName": "C:\\source\\Bilgeadam\\SOLID-Principles\\SRP\\SRP.csproj",
         "projectName": "SRP",
-        "projectPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\Çalıışşş\\SOLID-Principles\\SRP\\SRP.csproj",
+        "projectPath": "C:\\source\\Bilgeadam\\SOLID-Principles\\SRP\\SRP.csproj",
         "packagesPath": "C:\\Users\\gokce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\Çalıışşş\\SOLID-Principles\\SRP\\obj\\",
+        "outputPath": "C:\\source\\Bilgeadam\\SOLID-Principles\\SRP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gokce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

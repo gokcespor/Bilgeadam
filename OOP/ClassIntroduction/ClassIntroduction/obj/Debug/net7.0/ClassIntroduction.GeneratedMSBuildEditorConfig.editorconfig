@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClassIntroduction
-build_property.ProjectDir = C:\Users\gokce\Source\Repos\gokcespor\Bilgeadam\OOP\ClassIntroduction\ClassIntroduction\
+build_property.ProjectDir = C:\source\Bilgeadam\OOP\ClassIntroduction\ClassIntroduction\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

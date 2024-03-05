@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\bin\Debug\net8.0\DIP.exe
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\bin\Debug\net8.0\DIP.deps.json
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\bin\Debug\net8.0\DIP.runtimeconfig.json
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\bin\Debug\net8.0\DIP.dll
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\bin\Debug\net8.0\DIP.pdb
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\obj\Debug\net8.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\obj\Debug\net8.0\DIP.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\obj\Debug\net8.0\DIP.AssemblyInfo.cs
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\obj\Debug\net8.0\DIP.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\obj\Debug\net8.0\DIP.sourcelink.json
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\obj\Debug\net8.0\DIP.dll
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\obj\Debug\net8.0\refint\DIP.dll
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\obj\Debug\net8.0\DIP.pdb
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\obj\Debug\net8.0\DIP.genruntimeconfig.cache
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\DIP\obj\Debug\net8.0\ref\DIP.dll

@@ -1,0 +1,14 @@
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\bin\Debug\net8.0\MediatorPattern.exe
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\bin\Debug\net8.0\MediatorPattern.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\bin\Debug\net8.0\MediatorPattern.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\bin\Debug\net8.0\MediatorPattern.dll
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\bin\Debug\net8.0\MediatorPattern.pdb
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\obj\Debug\net8.0\MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\obj\Debug\net8.0\MediatorPattern.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\obj\Debug\net8.0\MediatorPattern.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\obj\Debug\net8.0\MediatorPattern.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\obj\Debug\net8.0\MediatorPattern.dll
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\obj\Debug\net8.0\refint\MediatorPattern.dll
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\obj\Debug\net8.0\MediatorPattern.pdb
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\obj\Debug\net8.0\MediatorPattern.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\Çalıışşş\DesignPattern\MediatorPattern\obj\Debug\net8.0\ref\MediatorPattern.dll

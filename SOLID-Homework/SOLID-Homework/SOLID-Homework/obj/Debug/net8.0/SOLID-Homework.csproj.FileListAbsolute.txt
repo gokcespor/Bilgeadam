@@ -1,0 +1,15 @@
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\bin\Debug\net8.0\SOLID-Homework.exe
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\bin\Debug\net8.0\SOLID-Homework.deps.json
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\bin\Debug\net8.0\SOLID-Homework.runtimeconfig.json
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\bin\Debug\net8.0\SOLID-Homework.dll
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\bin\Debug\net8.0\SOLID-Homework.pdb
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\obj\Debug\net8.0\SOLID-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\obj\Debug\net8.0\SOLID-Homework.AssemblyInfoInputs.cache
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\obj\Debug\net8.0\SOLID-Homework.AssemblyInfo.cs
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\obj\Debug\net8.0\SOLID-Homework.csproj.CoreCompileInputs.cache
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\obj\Debug\net8.0\SOLID-Homework.sourcelink.json
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\obj\Debug\net8.0\SOLID-Homework.dll
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\obj\Debug\net8.0\refint\SOLID-Homework.dll
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\obj\Debug\net8.0\SOLID-Homework.pdb
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\obj\Debug\net8.0\SOLID-Homework.genruntimeconfig.cache
+C:\source\Bilgeadam\SOLID-Homework\SOLID-Homework\SOLID-Homework\obj\Debug\net8.0\ref\SOLID-Homework.dll
